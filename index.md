@@ -28,13 +28,13 @@ permalink: /
 <sectionpd>
   <img class="sectionpdPicture" src="/images/goal.png" alt="Geeta">
   <div class="sectionpdContent">
-    <h2>We help 8th-11th grade students <br> gain stretegic advantage <br> for college admissions</h2>
+    <h2>We help 8th-11th grade students gain <br>stretegic advantage for college admissions</h2>
     <ul class="yes">
     
     <li>Optimize your academics, extracurriculars and summers</li>
     <li>Pick a major based on your passions and strengths</li>
-    <li>Stand out among your peers</li>
-    <li>Trim out unnecessary stuff to lead a sane life</li>
+    <li>EXCEL! Stand out among your peers</li>
+    <li>Trim out unnecessary stuff to make time for meaningful things</li>
     <li>Make your high school experience more focussed and fun!</li>
     </ul>
 
@@ -51,7 +51,7 @@ permalink: /
     <h2>About Geeta Arora</h2>
     <p>Geeta Arora is the awesomest person ever on earth who has no clue about what to write here. Please help!</p>
 
-    <p><b>Contact: </b>geeta@radicalcollegestrategies.com</p>
+    <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
   </div>
 </section50>
 <br>
