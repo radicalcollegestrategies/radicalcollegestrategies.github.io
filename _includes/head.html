@@ -1,0 +1,20 @@
+<head>
+    <meta charset="utf-8">
+    <!-- Import Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Fondamento|Marko One|ABeeZee' rel='stylesheet'>
+    <link rel="stylesheet" href="/defaultstyle.css">
+    <title>{{ page.title }}</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    {% if jekyll.environment == 'production' %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177852108-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-177852108-1');
+    </script>
+    {% endif %}
+
+    <link rel="shortcut icon" type="image/x-icon" href="https:/radicalcollegestrategies.github.io/images/favicon.ico">
+</head>    
