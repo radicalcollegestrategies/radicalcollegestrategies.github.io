@@ -26,13 +26,13 @@ permalink: /
 <br-->
 
 <sectionpd>
-  <img class="sectionpdPicture" src="/images/goal.png" alt="Geeta">
+  <img class="sectionpdPicture" src="/images/goal.png" alt="MountainTop">
   <div class="sectionpdContent">
     <h2>We help 8th-11th grade students gain <br>stretegic advantage for college admissions</h2>
     <ul class="yes">
     
     <li>Optimize your academics, extracurriculars and summers</li>
-    <li>Pick a major based on your passions and strengths</li>
+    <li>Pick a STEM major based on your passions and strengths</li>
     <li>EXCEL! Stand out among your peers</li>
     <li>Trim out unnecessary stuff to make time for meaningful things</li>
     <li>Make your high school experience more focussed and fun!</li>
@@ -45,15 +45,18 @@ permalink: /
 </sectionpd>
 <br>
 
-<section50>
-  <img class="section50right" src="/images/geeta.jpg" alt="Geeta">
-  <div class="section50left">
+<sectionpd>
+  <div class="sectionpdContent">
     <h2>About Geeta Arora</h2>
-    <p>Geeta Arora is the awesomest person ever on earth who has no clue about what to write here. Please help!</p>
+    <p>Geeta is a college strategist and mentor who has helped numerous high school students discover their passion and build a strong cohesive resume for applying to colleges. </p>
+    <p>She uses her decades of experience as a software professional at Oracle  to guide students in programming projects ???</p>
+    <p>Geeta has coached several students for Math and USACO competitions. Her students have ranked in the top 3 at the MathCounts East Bay Chapter Competitions for 6 years in a row, and have earned Distinction in AMC8, AMC10 and AMC12, including a perfect scorer in AMC8. She has also helped students reach USACO Platinum Level and USACO Camp. </p>
 
     <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
   </div>
-</section50>
+  <img class="sectionpdPicture" src="/images/geeta.jpg" alt="Geeta">
+
+</sectionpd>
 <br>
 
 <!--section50>
