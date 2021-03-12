@@ -29,10 +29,11 @@ permalink: /
 
 <sectionpd>
   <div class="sectionpdContent sectionpdLeft">
-    <h2>About Geeta Arora</h2>
-    <p>Geeta is a college strategist and mentor who has helped numerous high school students discover their passion and build a strong cohesive resume for getting into top colleges. </p>
-    <p>She uses her decades of experience as a software professional at Oracle  to guide students in programming projects ???</p>
-    <p>Geeta has coached several students for Math and USACO competitions. Her students have ranked in the top 3 at the MathCounts East Bay Chapter Competitions for 6 years in a row, and have earned Distinction in AMC8, AMC10 and AMC12, including a perfect scorer in AMC8. She has also helped students reach USACO Platinum Level and USACO Camp. </p>
+    <h2>Meet Geeta Arora</h2>
+    <p>I am a college strategist and mentor who has helped numerous high school students discover their passion and build a strong cohesive resume for getting into top colleges. If you spend the time to uncover your passion, then it automatically becomes your heartfelt college essay!</p>
+    <p>I am a silicon valley software professional who realized that my real passion lies in working with school-aged students.
+    I have coached several students in Robotics, Math and USACO competitions. My students have ranked in the top 3 at the MathCounts East Bay Chapter Competitions for 6 years in a row, and have earned Distinction in AMC8, AMC10 and AMC12. In addition, I have mentored many FLL and FRC teams over the years, and have helped students reach USACO Platinum Level and USACO Camp. </p>
+    <p>While mentoring high school students, I discovered that students often take on a crazy workload. Not only can this lead to burnout, it may not even stand out to colleges if the story in incongruent. This led me to found Radical College Strategies.</p> 
 
     <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
   </div>
