@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /WorksCaseStudy/
+permalink: /Works/
 ---
 
 <section50short>

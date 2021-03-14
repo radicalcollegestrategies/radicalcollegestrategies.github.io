@@ -359,10 +359,9 @@ section50short:after {
 /* Add styles to the form container */
 .form-container {
   max-width: 380px;
-  /* width: 100%; */
   padding: 0px;
   margin: 0;
-  background-color: #a6baf8;
+  background-color: #c6d3fa;
 }
 
 /* Full-width input fields */
@@ -391,6 +390,7 @@ section50short:after {
   cursor: pointer;
   white-space: nowrap;
   font-size: 36px;
+  line-height: 1;
 }
 
 .topright {
@@ -409,6 +409,7 @@ section50short:after {
     content: ' ';
     background: rgba(0,0,0,.5);
 }
+
 .popup .contents {
     border: 2px solid #0b325c;
     border-radius: 10px;
@@ -417,9 +418,8 @@ section50short:after {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background: #FFF;    */
     position: fixed;
-    background-color: #a6baf8;
+    background-color: #c6d3fa;
     top: 50vh;
     left: 50vw;
     transform: translate(-50%, -50%);
