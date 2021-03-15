@@ -6,16 +6,8 @@ permalink: /Video/
 <sectionpd>
 <h1 style="font-size: 36px;">Step1: Watch this video</h1>
 
-  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.png" alt="MountainTop">
-  <div class="sectionpdContent sectionpdRight">
-    <ul class="yes" style="line-height: 3;">This video reveals:
-    
-    <li>Why you need to plan your academics and activities early on</li>
-    <li>How doing too many things actually hurts your chances</li>
-    <li>A simple proven system to excel and get colleges to notice you</li>
-    </ul>
+<iframe src="https://www.youtube.com/embed/8KDX6dHr97U" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0"><br/></iframe>
 
-  </div>
 </sectionpd>
 
 <sectionpd>

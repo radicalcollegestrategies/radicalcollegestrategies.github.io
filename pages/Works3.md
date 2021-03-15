@@ -29,7 +29,7 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
 
         <span onclick="hidePopup()" class="close-button topright">&times;</span>
 
-        <form action="/Video/" onsubmit="dosomething(this)" class="form-container" id="myForm">
+        <form id="myForm" class="form-container" action="/Video/">
             <h2>Enter your email <br> to begin your journey</h2>
 
             <label for="email"></label>
@@ -50,20 +50,36 @@ function hidePopup() {
   popup.classList.remove('open');
 }
 
+/*
 const form1 = document.forms['myForm']
-const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
 var form2 = document.getElementById("myForm")
+*/
+var $form = $('form#myForm')
+const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
+const myjson = '{"email":"a@b.c"}'
 
-function dosomething(theform) {
-  //alert("GEETA:\n" + form1);
+$("#myForm").submit (function() { 
 
-  var jqxhr = $.ajax({
+  var jq = $.ajax({
     url: url,
     method: "GET",
     dataType: "json",
-    data: form.serializeObject()
-  })
+    data: $form.serializeJSON()
+  }).success(
+    alert("Success\n")
+  );
 
+  //alert("GEETA:\n" + $form.serializeJSON());
   document.getElementById("myForm").reset(); 
+});
+
+function foo() {
+  var jq = $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeObject()
+  });
+
 }
 </script>
