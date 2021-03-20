@@ -10,13 +10,14 @@ permalink: /
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.png" alt="MountainTop">
 
   <div class="sectionpdContent sectionpdRight">
-    <h2>We help 8th-11th grade students gain <br>stretegic advantage for college admissions</h2>
+    <h2>I help 8th-11th grade students gain a<br>stretegic advantage for college admissions</h2>
     <ul class="yes">
     
-    <li>Optimize your academics, extracurriculars and summers</li>
+    <li>Optimize your academic, extracurricular and summer activities</li>
+    <li>Focus on the most meaningful activities and trim out busy work</li>
     <li>Pick a STEM major based on your passions and strengths</li>
-    <li>Trim out unnecessary stuff to make time for meaningful activities</li>
-    <li>Make your high school experience more focussed and fun!</li>
+    <!--li>Trim out unnecessary stuff to make time for meaningful activities</li-->
+    <li>Make your high school experience more focused and fun</li>
     <li>EXCEL! Stand out among your peers</li>
     </ul>
 
@@ -30,10 +31,9 @@ permalink: /
 <sectionpd>
   <div class="sectionpdContent sectionpdLeft">
     <h2>Meet Geeta Arora</h2>
-    <p>I am a college strategist and mentor who has helped numerous high school students discover their passion and build a strong cohesive resume for getting into top colleges. If you spend the time to uncover your passion, then it automatically becomes your heartfelt college essay!</p>
-    <p>In a past life, I was a silicon valley software professional who realized that my real passion lies in working with school-aged students!
-    I have coached several students in Robotics, Math and USACO competitions. My students have ranked in the top 3 at the MathCounts East Bay Chapter Competitions for 6 years in a row, and have earned Distinction in AMC8, AMC10 and AMC12. In addition, I have mentored many FLL and FRC teams over the years, and have helped students reach USACO Platinum Level and even USACO Camp. </p>
-    <p>While mentoring high school students, I discovered that students often take on a crazy workload. Not only can this lead to burnout, it may not even stand out to colleges if the story is incongruent. This led me to found Radical College Strategies.</p> 
+    <p>I am a college strategist and mentor who has helped numerous high school students discover their unique interests and build a strong cohesive resume for getting into top colleges. I firmly believe that if you pursue your passion, then your life journey automatically becomes a heartfelt college essay!</p>
+    <p>In my past life, I was a software architect at Oracle and in my spare time I coached students for Math, Robotics, and USACO competitions. Over the years, my students have consistently ranked in the top 3 at MathCounts Chapter Competitions, and have earned Distinction in AMC8, AMC10 and AMC12. In robotics, my students have won awards at FLL and FRC state championships. In addition, my students have reached USACO Platinum Level and even USACO Camp. I continue to guide my students to excel at their unique talents.</p>
+    <p>The biggest mistake high school students make is to take on a crazy workload which leads them to burnout and yet their story does not stand out as impressive to colleges. This led me to found Radical College Strategies.</p> 
 
     <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
   </div>
