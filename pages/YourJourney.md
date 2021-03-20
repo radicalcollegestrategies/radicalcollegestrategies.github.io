@@ -15,7 +15,7 @@ permalink: /YourJourney/
 <div class="row3">
 <div><b>Stand out among your peers</b></div>
 <div><b>Build a strong resume for top colleges</b></div>
-<div><b>No insane workload!</b></div>
+<div><b>Avoid an insane workload!</b></div>
 </div>
 
 <!-- Calendly inline widget begin -->
