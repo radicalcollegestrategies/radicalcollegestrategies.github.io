@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <sectionpd>
-  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.png" alt="MountainTop">
+  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="Dream College Goal">
 
   <div class="sectionpdContent sectionpdRight">
     <h2>I help 8th-11th grade students gain a<br>stretegic advantage for college admissions</h2>
@@ -37,7 +37,7 @@ permalink: /
 
     <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
   </div>
-  <img class="sectionpdPicture sectionpdRight" src="/images/geeta.jpg" alt="Geeta">
+  <img class="sectionpdPicture sectionpdRight" src="/images/geeta.jpg" alt="Geeta Arora College Strategist">
 
 </sectionpd>
 <br>
