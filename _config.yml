@@ -36,6 +36,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#collections:
-#  robocomp:
-#  logic:
+collections:
+  testimonials:

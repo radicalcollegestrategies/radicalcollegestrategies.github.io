@@ -2,13 +2,12 @@
 layout: default
 permalink: /Works/
 ---
-
-<section50short>
+<!-- Works! DO NOT CHANGE:
+https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
+<sectionpd>
 <h3>For 8th-11th grade students:</h3>
 <h1 style="font-size: 36px;">How do you stand out among your peers by <br>building a strong cohesive resume for top colleges<br> without an insane workload?</h1>
-</section50short>
 
-<sectionpd>
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.png" alt="MountainTop">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes" style="line-height: 3;">This video reveals:
@@ -19,34 +18,54 @@ permalink: /Works/
     </ul>
 
     <br>
-    <div style="margin-left:auto; margin-right:auto">
-    <button class="mybutton" style="color:white;" onclick="openForm()">Begin your journey now</button>
-    </div>
 
-    <div class="form-popup" id="myForm">
-      <span onclick="closeForm()">&times;</span>
+    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    Begin your journey now
+    </button>
 
-      <form action="/action_page.php" class="form-container">
-      <h2>Enter your email to begin your journey now</h2>
+    <div class="popup">
+        <div class="blocker" onclick="hidePopup()"></div>
+        <div class="contents">
 
-      <form action="https://getform.io/f/6f25ddc3-5307-452d-9aae-b330200ba1d5" method="POST">
-      <label for="email"></label>
-      <input type="text" placeholder="Enter Email" name="email" required>
-      <button class="mybutton" style="color:white;" type="submit" class="btn">Begin your journey now</button>
-      <!--button type="submit" style="font-family:'ABeeZee'; font-weight:'bold'; font-size:16px">Submit</button-->
-      </form>
+        <span onclick="hidePopup()" class="close-button topright">&times;</span>
 
-      </form>
+        <form id="myForm" class="form-container" action="/Video/">
+            <h2>Enter your email <br> to begin your journey</h2>
+
+            <label for="email"></label>
+            <input type="text" placeholder="Enter Email" name="email" required>
+            <button class="mybutton" style="color:white;" type="submit" class="mybutton">Begin your journey now</button>
+        </form>
+        </div>
     </div>
   </div>
 </sectionpd>
 
 <script>
-function openForm() {
-  document.getElementById("myForm").style.display = "block";
+const popup = document.querySelector('.popup');
+function showPopup() {
+  popup.classList.add('open');
+}
+function hidePopup() {
+  popup.classList.remove('open');
 }
 
-function closeForm() {
-  document.getElementById("myForm").style.display = "none";
+var $form = $('form#myForm')
+const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
+
+$("#myForm").submit (function() { 
+
+  $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeJSON()
+  }).success(
+    alert("Success\n")
+  );
+
+  document.getElementById("myForm").reset(); 
+});
+
 }
 </script>

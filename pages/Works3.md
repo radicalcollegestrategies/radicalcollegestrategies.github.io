@@ -56,30 +56,30 @@ var form2 = document.getElementById("myForm")
 */
 var $form = $('form#myForm')
 const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
-const myjson = '{"email":"a@b.c"}'
 
 $("#myForm").submit (function() { 
 
-  var jq = $.ajax({
+  $.ajax({
     url: url,
     method: "GET",
     dataType: "json",
     data: $form.serializeJSON()
-  }).success(
+  }).done(
+    /* setTimeout(function () { 
+            // Closing the alert 
+            alert('Submitting'); 
+        }, 2000);  */
     alert("Success\n")
+    //console.log('Success')
   );
 
-  //alert("GEETA:\n" + $form.serializeJSON());
   document.getElementById("myForm").reset(); 
 });
 
-function foo() {
-  var jq = $.ajax({
-    url: url,
-    method: "GET",
-    dataType: "json",
-    data: $form.serializeObject()
-  });
-
-}
 </script>
+
+
+        setTimeout(function () { 
+            // Closing the alert 
+            alert('Submitting'); 
+        }, 2000); 
