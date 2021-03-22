@@ -18,6 +18,8 @@ permalink: /YourJourney/
 <div><b>Avoid an insane workload!</b></div>
 </div>
 
+<!-- Show personal calendar as busy on business calendar:
+     https://medium.com/@willroman/auto-block-time-on-your-work-google-calendar-for-your-personal-events-2a752ae91dab -->
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/geeta-radical/college-strategies?background_color=eff3fd" style="min-width:320px;height:800px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
