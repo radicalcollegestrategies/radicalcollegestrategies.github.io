@@ -2,13 +2,13 @@
 layout: default
 permalink: /Works3/
 ---
-<!-- Work in progress. Try this again:
+<!-- Work in progress.
 https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
 <sectionpd>
-<h3>For 8th-11th grade students:</h3>
+<h3>For 8th-11th grade students in STEM:</h3>
 <h1 style="font-size: 36px;">How do you stand out among your peers by <br>building a strong cohesive resume for top colleges<br> without an insane workload?</h1>
 
-  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.png" alt="MountainTop">
+  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="MountainTop">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes" style="line-height: 3;">This video reveals:
     
@@ -34,6 +34,7 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
 
             <label for="email"></label>
             <input type="text" placeholder="Enter Email" name="email" required>
+            <p style="font-size:12px;text-align: center;">We do not sell or share your info</p>
             <button class="mybutton" style="color:white;" type="submit" class="mybutton">Begin your journey now</button>
         </form>
         </div>
@@ -50,10 +51,6 @@ function hidePopup() {
   popup.classList.remove('open');
 }
 
-/*
-const form1 = document.forms['myForm']
-var form2 = document.getElementById("myForm")
-*/
 var $form = $('form#myForm')
 const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
 
@@ -77,9 +74,3 @@ $("#myForm").submit (function() {
 });
 
 </script>
-
-
-        setTimeout(function () { 
-            // Closing the alert 
-            alert('Submitting'); 
-        }, 2000); 

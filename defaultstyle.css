@@ -2,7 +2,7 @@
 /**************** Header *****************/
 header {
   padding-top: 15px;
-  height: 95px;
+  height: 75px;
   text-align: center;
   background: #2e7bcf url(/images/bg_header.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
@@ -10,7 +10,7 @@ header {
 
 .headfont {
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   color: rgb(256, 256, 256);
   font-family: 'Fondamento';
   white-space: nowrap;
@@ -50,6 +50,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 48px;
+  line-height: 1;
 }
 
 h2 {
@@ -294,6 +295,7 @@ section50short {
 .section50left {
   float: left;
   margin-top: 0px;
+  padding-left: 30px;
   width: 470px;
 }
 
