@@ -4,21 +4,21 @@ permalink: /Video/
 ---
 
 <sectionpd>
-<h3>For 8th-11th grade students in STEM:</h3>
-<h1 style="font-size: 36px;">Step1: Watch this video</h1>
+<h4>For 8th-11th grade students in STEM:</h4>
+<h2>Step1: Watch this video</h2>
 
 <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0"><br/></iframe>
 
 </sectionpd>
 
 <sectionpd>
-<h1 style="font-size: 36px;">Step2: Fill out a Questionnaire</h1>
+<h2>Step2: Fill out a Questionnaire</h2>
 <p><a style="color: #0821af;" href="https://docs.google.com/spreadsheets/d/1WhMljju5bW45TNDJHnw4HwNfwP2gTt8ckxB07rz5kec/edit#gid=0"  target="_blank">Fill out this questionnaire</a> at least 24 hours prior to our meeting, so that I can help you best. The instructions are in the document.</p>
 </sectionpd>
 
 <sectionpd>
-<h1 style="font-size: 29px;">Step3: Schedule a free breakthrough strategy session with Geeta</h1>
-<h3>Make sure both parent and student attend the meeting!</h3>
+<h2 style="font-size: 29px;">Step3: Schedule a free breakthrough strategy session with Geeta</h2>
+<h4>Make sure both parent and student attend the meeting!</h4>
 <br>
 <div class="row3">
 <div><b>Stand out among your peers</b></div>

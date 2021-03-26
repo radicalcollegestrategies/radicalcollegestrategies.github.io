@@ -4,9 +4,9 @@ permalink: /YourJourney/
 ---
 
 <sectionpd>
-<h3>For 8th-11th grade students in STEM:</h3>
-<h1 style="font-size: 32px;">Schedule a free breakthrough strategy session with Geeta</h1>
-<h3>Make sure both parent and student attend the meeting!</h3>
+<h4>For 8th-11th grade students in STEM:</h4>
+<h2 style="font-size: 32px;">Schedule a free breakthrough strategy session with Geeta</h2>
+<h4>Make sure both parent and student attend the meeting!</h4>
 <br>
 
 <div class="row3">

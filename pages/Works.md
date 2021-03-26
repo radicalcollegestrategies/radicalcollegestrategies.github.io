@@ -5,8 +5,8 @@ permalink: /Works/
 <!-- Works! DO NOT CHANGE:
 https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
 <sectionpd>
-<h3>For 8th-11th grade students in STEM:</h3>
-<h1 style="font-size: 36px;">How do you stand out among your peers by <br>building a strong cohesive resume for top colleges<br> without an insane workload?</h1>
+<h4>For 8th-11th grade students in STEM:</h4>
+<h2>How do you stand out among your peers by <br>building a strong cohesive resume for top colleges<br> without an insane workload?</h2>
 
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="MountainTop">
   <div class="sectionpdContent sectionpdRight">
@@ -30,7 +30,7 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
         <span onclick="hidePopup()" class="close-button topright">&times;</span>
 
         <form id="myForm" class="form-container" action="/Video/">
-            <h2>Enter your email <br> to begin your journey</h2>
+            <h3>Enter your email <br> to begin your journey</h3>
 
             <label for="email"></label>
             <input type="text" placeholder="Enter Email" name="email" required>

@@ -39,7 +39,7 @@ header {
 }
 
 /**************** Layout Styles *****************/
-h1, h2, h3 {
+h1, h2, h3, h4 {
   line-height: 1;
   letter-spacing: 0;
   font-family: 'Marko One';
@@ -54,23 +54,18 @@ h1 {
 }
 
 h2 {
-  font-size:22px;
+  font-size:36px;
   line-height: 1.2;
 }
 
 h3 {
-  font-size:16px;
+  font-size:22px;
   line-height: 1.2;
 }
 
 h4 {
-  line-height: 1.2;
-  letter-spacing: 0;
   font-size:16px;
-  font-weight: bold;
-  /* text-decoration: underline; */
-  background-color: #d8e0fc;
-  text-align: center;
+  line-height: 1.2;
 }
 
 body {

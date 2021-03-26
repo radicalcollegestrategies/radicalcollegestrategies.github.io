@@ -4,7 +4,7 @@ permalink: /testimonials/
 ---
 
 <section50short> 
-<h1>Testimonials</h1>
+<h2>Testimonials</h2>
 
 {% for comp in site.testimonials %}  
 
@@ -21,7 +21,7 @@ permalink: /testimonials/
   -->
   <div class="section50left test">
 
-  <h3>{{ comp.from }} </h3>
+  <h4>{{ comp.from }} </h4>
 
   {{ comp.content }} 
 
