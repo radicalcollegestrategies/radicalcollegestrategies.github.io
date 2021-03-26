@@ -2,7 +2,7 @@
 /**************** Header *****************/
 header {
   padding-top: 15px;
-  height: 75px;
+  height: 80px;
   text-align: center;
   background: #2e7bcf url(/images/bg_header.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
@@ -10,7 +10,7 @@ header {
 
 .headfont {
   margin-top: 0;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
   color: rgb(256, 256, 256);
   font-family: 'Fondamento';
   white-space: nowrap;

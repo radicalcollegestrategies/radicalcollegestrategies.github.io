@@ -10,11 +10,13 @@ permalink: /Video/
 <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0"><br/></iframe>
 
 </sectionpd>
+<hr style="width:50%">
 
 <sectionpd>
 <h2>Step2: Fill out a Questionnaire</h2>
 <p><a style="color: #0821af;" href="https://docs.google.com/spreadsheets/d/1WhMljju5bW45TNDJHnw4HwNfwP2gTt8ckxB07rz5kec/edit#gid=0"  target="_blank">Fill out this questionnaire</a> at least 24 hours prior to our meeting, so that I can help you best. The instructions are in the document.</p>
 </sectionpd>
+<hr style="width:50%">
 
 <sectionpd>
 <h2 style="font-size: 29px;">Step3: Schedule a free breakthrough strategy session with Geeta</h2>
