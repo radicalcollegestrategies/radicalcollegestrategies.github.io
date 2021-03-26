@@ -4,7 +4,7 @@ permalink: /Video/
 ---
 
 <sectionpd>
-<h4>For 8th-11th grade students in STEM:</h4>
+<h4>For 8th-11th grade students interested in STEM:</h4>
 <h2>Step1: Watch this video</h2>
 
 <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0"><br/></iframe>
