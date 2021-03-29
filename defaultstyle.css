@@ -115,6 +115,19 @@ img {
   background-color: #1676dd;
 }
 
+.mybox {
+  background-color: #b9d7f8;
+  border-radius: 6px;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: normal;
+  /* font-family: 'Marko One'; */
+}
+
 .license {
   font-size: 10px;
   text-align: center;
