@@ -33,7 +33,7 @@ permalink: /
     <h3>Meet Geeta Arora</h3>
     <p>I am a college strategist and mentor who has helped numerous high school students discover their unique interests and build a strong cohesive resume for getting into top colleges. I firmly believe that if you pursue your passion, then your life journey automatically becomes a heartfelt college essay!</p>
     <p>In my past life, I was a software architect at Oracle and in my spare time I coached students for Math, Robotics, and USACO competitions. Over the years, my students have consistently ranked in the top 3 at MathCounts Chapter Competitions, and have earned Distinction in AMC8, AMC10 and AMC12. In robotics, my students have won awards at FLL and FRC state championships. In addition, my students have reached USACO Platinum Level and even USACO Camp. I continue to guide my students to excel at their unique talents.</p>
-    <p>I observed that the biggest mistake high school students make is take on a crazy workload which leads to burnout and yet their story does not stand out as impressive to colleges. This led me to found Radical College Strategies.</p> 
+    <p>I observed that the biggest mistake high school students make is to take on a crazy workload which leads to burnout and yet their story does not stand out as impressive to colleges. This led me to found Radical College Strategies.</p> 
 
     <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
   </div>
