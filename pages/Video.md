@@ -35,3 +35,10 @@ permalink: /Video/
 <!-- Calendly inline widget end -->
 
 </sectionpd>
+<div class="license">
+<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
+<br>
+<br>
+</div>

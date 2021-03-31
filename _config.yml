@@ -37,4 +37,5 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  testimonials:
+  testimonialsL:
+  testimonialsR:

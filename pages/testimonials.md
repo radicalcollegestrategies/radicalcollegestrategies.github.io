@@ -6,34 +6,34 @@ permalink: /testimonials/
 <section50short> 
 <h2>Testimonials</h2>
 
-{% for comp in site.testimonials %}  
+<div class="section50left test">
 
-  {% capture _%}{% increment i %}{% endcapture %}
-  {% assign mod = i | modulo:2 %}
-
-  <!-- For even loop runs, put pic to left. Switch for odd -->
-  <!--
-  {% if mod == 0 %}
-  <div class="section50right test">
-  {% else %}
-  <div class="section50left test">
-  {% endif %}
-  -->
-  <div class="section50left test">
-
+  {% for comp in site.testimonialsL %}  
   <h4>{{ comp.from }} </h4>
-
   {{ comp.content }} 
+  {% endfor %}
 
-  </div>
+</div>
 
-<!--
-  {% if mod == 0 %}
-  </section50short>
-  <section50short> 
-  {% endif %} -->
+<div class="section50right test">
 
-{% endfor %}
+  {% for comp in site.testimonialsR %}  
+  <h4>{{ comp.from }} </h4>
+  {{ comp.content }} 
+  {% endfor %}
+  
+</div>
+
 </section50short>
+
+<section50short> 
+    <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
+</section50short>
+
+<div class="license">
+<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
 <br>
 <br>
+</div>

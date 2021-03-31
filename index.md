@@ -43,15 +43,24 @@ permalink: /
 <br>
 
 <sectionpd>
-  <img class="sectionpdPicture sectionpdLeft" src="/images/Riya.jpg" alt="My daughter">
+  <img class="sectionpdPicture sectionpdLeft" src="/images/RiyaMIT.jpg" alt="My daughter">
 
   <div class="sectionpdContent sectionpdRight">
     <h3>How it all began... From B's to MIT</h3>
 
     <p>My daughter was very strong in Math and Robotics, but had her share of B’s in humanities classes in middle school. She wanted to get into a top college, but didn't want to take APs in subjects she didn't care for, nor wanted to participate in the usual extra curriculars her friends were taking. </p>
-    <p>So I strategized with her, and we picked a couple of activities that she enjoyed and that played to her strengths. She gave those activities her 100%, and stood out as a definite leader! To make time to excel in these activities, she cut out a couple of AP classes. Even though her SAT score was far from perfect, she got accepted into Computer Science at many top colleges like MIT, CMU and Berkeley EECS! And all this while getting her 8 hours of sleep every single night all through her 4 years of high school.</p> 
-    <p>She is now flourishing at MIT! </p>
+    <p>So I strategized with her, and we picked a couple of activities that she enjoyed and that played to her strengths. She gave those activities her 100%, and stood out as a definite leader! To make time to excel in these activities, she cut out a couple of AP classes. Even though her SAT score was far from perfect, she got accepted into Computer Science at many top colleges like MIT, CMU and Berkeley EECS! And all this while getting her 8 hours of sleep every single night all through her 4 years of high school. She is now flourishing at MIT! </p>
+
+    <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
 
   </div>
+
 </sectionpd>
+
+<div class="license">
+<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
 <br>
+<br>
+</div>

@@ -6,9 +6,9 @@ permalink: /Works3/
 https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
 <sectionpd>
 <h4>For 8th-11th grade students in STEM:</h4>
-<h2>How do you stand out among your peers by <br>building a strong cohesive resume for top colleges<br> without an insane workload?</h2>
+<h2>How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
 
-  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="MountainTop">
+  <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="MountainTop" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes" style="line-height: 3;">This video reveals:
     
@@ -19,9 +19,11 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
 
     <br>
 
+    <p style="text-align:center;">
     <button class="mybutton" style="color:white;" onclick="showPopup()">
     Begin your journey now
     </button>
+    </p>
 
     <div class="popup">
         <div class="blocker" onclick="hidePopup()"></div>
@@ -39,11 +41,24 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
         </form>
         </div>
     </div>
+
+    <div class="popup2">
+        <div class="contents">
+        <form id="myForm2" class="form-container">
+
+          <p><h3>Thank You!</h3></p>
+          <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+        </form>
+        </div>
+    </div>
+
   </div>
 </sectionpd>
 
 <script>
 const popup = document.querySelector('.popup');
+const popup2 = document.querySelector('.popup2');
+
 function showPopup() {
   popup.classList.add('open');
 }
@@ -51,26 +66,34 @@ function hidePopup() {
   popup.classList.remove('open');
 }
 
+function showPopup2() {
+  popup2.classList.add('open');
+}
+
 var $form = $('form#myForm')
 const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
 
 $("#myForm").submit (function() { 
-
+  showPopup2();
   $.ajax({
     url: url,
     method: "GET",
     dataType: "json",
-    data: $form.serializeJSON()
-  }).done(
-    /* setTimeout(function () { 
-            // Closing the alert 
-            alert('Submitting'); 
-        }, 2000);  */
-    alert("Success\n")
-    //console.log('Success')
-  );
+    data: $form.serializeJSON(),
+    async:false
+  });
+
+  /* .done(alert("Thank you!\n")); */
 
   document.getElementById("myForm").reset(); 
 });
 
 </script>
+
+<div class="license">
+<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
+<br>
+<br>
+</div>
