@@ -18,7 +18,7 @@ description: >- # this means to ignore newlines until "baseurl:". Use keywords f
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://radicalcollegestrategies.github.io"
 github_username: radicalcollegestrategies
-google_analytics: UA-177852108-1
+google_analytics: G-DQ8ZX4MSY2
 
 plugins:
   - jekyll-feed
