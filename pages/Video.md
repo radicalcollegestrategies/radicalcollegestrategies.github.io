@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /Video/
+title: Appointment - Radical College Strategies
+permalink: /Appointment/
 ---
 
 <sectionpd>

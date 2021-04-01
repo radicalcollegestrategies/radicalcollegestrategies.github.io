@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Your Journey - Radical College Strategies
 permalink: /YourJourney/
 ---
 

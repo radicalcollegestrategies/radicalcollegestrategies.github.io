@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Privacy - Radical College Strategies
 permalink: /privacy/
 ---
 <section50>

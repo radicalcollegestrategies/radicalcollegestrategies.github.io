@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Terms - Radical College Strategies
 permalink: /terms/
 ---
 <section50>

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Testimonials - Radical College Strategies
 permalink: /testimonials/
 ---
 

@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Radical College Strategies
 permalink: /
 ---
 
@@ -58,9 +59,12 @@ permalink: /
 </sectionpd>
 
 <div class="license">
-<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+Have younger kids? Check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.
+<div style="float:right">
+<a href="/privacy" target="_blank" style="color: #0821af">Privacy Policy</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
+<a href="/terms" target="_blank" style="color: #0821af">Terms</a>
+</div>
 <br>
 <br>
 </div>

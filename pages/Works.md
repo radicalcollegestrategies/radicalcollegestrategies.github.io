@@ -31,7 +31,7 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
 
         <span onclick="hidePopup()" class="close-button topright">&times;</span>
 
-        <form id="myForm" class="form-container" action="/Video/">
+        <form id="myForm" class="form-container" action="/Appointment/">
             <h3>Enter your email <br> to begin your journey</h3>
 
             <label for="email"></label>
