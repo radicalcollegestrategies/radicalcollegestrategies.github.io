@@ -8,7 +8,7 @@ https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-g
 <h4>For 8th-11th grade students in STEM:</h4>
 <h2>How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
 
-  <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="Darts" onclick="showPopup()">
+  <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="IntroVideo" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes" style="line-height: 3;">This video reveals:
     
