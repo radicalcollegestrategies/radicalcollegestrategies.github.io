@@ -1,26 +1,99 @@
 ---
 layout: default
-title: Your Journey - Radical College Strategies
 permalink: /YourJourney/
 ---
-
+<!-- Works! DO NOT CHANGE:
+https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
 <sectionpd>
-<h4>For 8th-11th grade students interested in STEM:</h4>
-<h2 style="font-size: 32px;">Schedule a free breakthrough strategy session with Geeta</h2>
-<h4>Make sure both parent and student attend the meeting!</h4>
-<br>
+<h4>For 8th-11th grade students in STEM:</h4>
+<h2>How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
 
-<div class="row3">
-<div><b>Stand out among your peers</b></div>
-<div><b>Build a strong resume for top colleges</b></div>
-<div><b>Avoid an insane workload!</b></div>
-</div>
+  <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="Darts" onclick="showPopup()">
+  <div class="sectionpdContent sectionpdRight">
+    <ul class="yes" style="line-height: 3;">This video reveals:
+    
+    <li>Why you need to plan your academics and activities early on</li>
+    <li>How doing too many things actually hurts your chances</li>
+    <li>A simple proven system to excel and get colleges to notice you</li>
+    </ul>
 
-<!-- Show personal calendar as busy on business calendar:
-     https://medium.com/@willroman/auto-block-time-on-your-work-google-calendar-for-your-personal-events-2a752ae91dab -->
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/geeta-radical/college-strategies?background_color=eff3fd" style="min-width:320px;height:800px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+    <br>
 
+    <p style="text-align:center;">
+    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    Begin your journey now
+    </button>
+    </p>
+
+    <div class="popup">
+        <div class="blocker" onclick="hidePopup()"></div>
+        <div class="contents">
+
+        <span onclick="hidePopup()" class="close-button topright">&times;</span>
+
+        <form id="myForm" class="form-container" action="/Session/">
+            <h3>Enter your email <br> to begin your journey</h3>
+
+            <label for="email"></label>
+            <input type="text" placeholder="Enter Email" name="email" required>
+            <p style="font-size:12px;text-align: center;">We do not sell or share your info</p>
+            <button class="mybutton" style="color:white;" type="submit" class="mybutton">Begin your journey now</button>
+        </form>
+        </div>
+    </div>
+
+    <div class="popup2">
+        <div class="contents">
+        <form id="myForm2" class="form-container">
+
+          <p><h3>Thank You!</h3></p>
+          <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+        </form>
+        </div>
+    </div>
+
+  </div>
 </sectionpd>
+
+<script>
+const popup = document.querySelector('.popup');
+const popup2 = document.querySelector('.popup2');
+
+function showPopup() {
+  popup.classList.add('open');
+}
+function hidePopup() {
+  popup.classList.remove('open');
+}
+
+function showPopup2() {
+  popup2.classList.add('open');
+}
+
+var $form = $('form#myForm')
+const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
+
+$("#myForm").submit (function() { 
+  showPopup2();
+  $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeJSON(),
+    async:false
+  });
+  
+  /* .done(alert("Thank you!\n")); */
+
+  document.getElementById("myForm").reset(); 
+});
+
+</script>
+
+<div class="license">
+<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
+<br>
+<br>
+</div>

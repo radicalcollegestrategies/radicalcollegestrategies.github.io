@@ -99,6 +99,10 @@ img {
   width: 450px;
 }
 
+.myimg:hover {
+  cursor: pointer;
+}
+
 .mybutton {
   background-color: #1165be;
   border-radius: 6px;

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Appointment - Radical College Strategies
-permalink: /Appointment/
+title: Strategy Session - Radical College Strategies
+permalink: /Session/
 ---
 
 <sectionpd>
 <h4>For 8th-11th grade students interested in STEM:</h4>
 <h2>Step1: Watch this video</h2>
 
-<iframe src="https://www.youtube.com/embed/8KDX6dHr97U" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0"><br/></iframe>
+<iframe src="https://www.youtube.com/embed/rM7I2bVjvH4" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
 
 </sectionpd>
 
