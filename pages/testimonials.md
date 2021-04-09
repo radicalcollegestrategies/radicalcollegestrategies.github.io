@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testimonials - Radical College Strategies
-permalink: /testimonials/
+permalink: /Testimonials/
 ---
 
 <section50short> 
@@ -31,10 +31,10 @@ permalink: /testimonials/
     <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
 </section50short>
 
-<div class="license">
-<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+<div class="license" style="float:right">
+<a href="/Privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
+<a href="/Terms" target="_blank" style="color: #0821af;">Terms</a>
 <br>
 <br>
 </div>

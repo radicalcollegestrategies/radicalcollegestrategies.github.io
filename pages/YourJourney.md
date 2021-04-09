@@ -2,11 +2,9 @@
 layout: default
 permalink: /YourJourney/
 ---
-<!-- Works! DO NOT CHANGE:
-https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
 <sectionpd>
-<h4>For 8th-11th grade students in STEM:</h4>
-<h2>How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
+<h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
+<h2 style="margin:15px;">How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
 
   <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="IntroVideo" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
@@ -70,6 +68,9 @@ function showPopup2() {
   popup2.classList.add('open');
 }
 
+<!-- Google form:
+https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
+
 var $form = $('form#myForm')
 const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
 
@@ -90,10 +91,10 @@ $("#myForm").submit (function() {
 
 </script>
 
-<div class="license">
-<a href="/privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+<div class="license" style="float:right">
+<a href="/Privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/terms" target="_blank" style="color: #0821af;">Terms</a>
+<a href="/Terms" target="_blank" style="color: #0821af;">Terms</a>
 <br>
 <br>
 </div>

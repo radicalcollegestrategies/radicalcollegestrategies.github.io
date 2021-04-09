@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy - Radical College Strategies
-permalink: /privacy/
+permalink: /Privacy/
 ---
 <section50>
 <h3>Privacy Policy</h3>

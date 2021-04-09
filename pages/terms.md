@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms - Radical College Strategies
-permalink: /terms/
+permalink: /Terms/
 ---
 <section50>
 <h3>Terms of Service</h3>
