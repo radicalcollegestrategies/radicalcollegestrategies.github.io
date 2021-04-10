@@ -1,0 +1,100 @@
+---
+layout: default
+permalink: /YourJourney2/
+---
+<sectionpd>
+<h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
+<h2 style="margin:15px;color:black">How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
+
+  <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="IntroVideo" onclick="showPopup()">
+  <div class="sectionpdContent sectionpdRight">
+    <ul class="yes"><h3>In this video you will learn:</h3>
+    
+    <li>A model that clearly defines where to spend your time and energy in high school</li>
+    <li>How to reach your personal best potential with the minimum time invested</li>
+    <li>A proven strategy to get into MIT and other top STEM programs</li>
+    </ul>
+
+    <br>
+
+    <p style="text-align:center;">
+    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    Get The Video
+    </button>
+    </p>
+
+    <div class="popup">
+        <div class="blocker" onclick="hidePopup()"></div>
+        <div class="contents">
+
+        <span onclick="hidePopup()" class="close-button topright">&times;</span>
+
+        <form id="myForm" class="form-container" action="/Session/">
+            <h3>Yes, Send Me the Video Now!</h3>
+
+            <label for="email"></label>
+            <input type="text" placeholder="Enter Email" name="email" required>
+            <p style="font-size:12px;text-align: center;">We do not sell or share your info</p>
+            <button class="mybutton" style="color:white;" type="submit" class="mybutton">Send Me The Video</button>
+        </form>
+        </div>
+    </div>
+
+    <div class="popup2">
+        <div class="contents">
+        <form id="myForm2" class="form-container">
+
+          <p><h3>Thank You!</h3></p>
+          <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+        </form>
+        </div>
+    </div>
+
+  </div>
+</sectionpd>
+
+<script>
+const popup = document.querySelector('.popup');
+const popup2 = document.querySelector('.popup2');
+
+function showPopup() {
+  popup.classList.add('open');
+}
+function hidePopup() {
+  popup.classList.remove('open');
+}
+
+function showPopup2() {
+  popup2.classList.add('open');
+}
+
+<!-- Google form:
+https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175 -->
+
+var $form = $('form#myForm')
+const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
+
+$("#myForm").submit (function() { 
+  showPopup2();
+  $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeJSON(),
+    async:false
+  });
+  
+  /* .done(alert("Thank you!\n")); */
+
+  document.getElementById("myForm").reset(); 
+});
+
+</script>
+
+<div class="license" style="float:right">
+<a href="/Privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/Terms" target="_blank" style="color: #0821af;">Terms</a>
+<br>
+<br>
+</div>
