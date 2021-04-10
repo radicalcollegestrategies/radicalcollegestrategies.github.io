@@ -4,14 +4,14 @@ permalink: /YourJourney2/
 ---
 <sectionpd>
 <h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
-<h2 style="margin:15px;color:black">How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
+<h2 style="margin:15px;color:black">How I help students stand out among their peers <br>by building a strong resume for top colleges<br> without an insane workload?</h2>
 
   <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="IntroVideo" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
-    <ul class="yes"><h3>In this video you will learn:</h3>
+    <ul class="yes"><h3>In this short video you will learn:</h3>
     
-    <li>A model that clearly defines where to spend your time and energy in high school</li>
-    <li>How to reach your personal best potential with the minimum time invested</li>
+    <li style="margin-bottom:20px">A model that clearly defines where to spend your time and energy in high school</li>
+    <li style="margin-bottom:20px">How to reach your personal best potential with the minimum time invested</li>
     <li>A proven strategy to get into MIT and other top STEM programs</li>
     </ul>
 
