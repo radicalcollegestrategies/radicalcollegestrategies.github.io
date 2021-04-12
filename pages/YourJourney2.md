@@ -4,15 +4,22 @@ permalink: /YourJourney2/
 ---
 <sectionpd>
 <h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
-<h2 style="margin:15px;color:black">How I help students stand out among their peers <br>by building a strong resume for top colleges<br> without an insane workload?</h2>
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students differentiate themselves<br>and get into top colleges</h2> 
+<h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
-  <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="IntroVideo" onclick="showPopup()">
+  <!-- src="/images/VideoIntro.png"  -->
+  <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;margin-top:20px" 
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes"><h3>In this short video you will learn:</h3>
     
-    <li style="margin-bottom:20px">A model that clearly defines where to spend your time and energy in high school</li>
-    <li style="margin-bottom:20px">How to reach your personal best potential with the minimum time invested</li>
-    <li>A proven strategy to get into MIT and other top STEM programs</li>
+    <li style="margin-bottom:20px">A model that clearly defines where to spend your time and 
+    <br>&nbsp;&nbsp;&nbsp;
+    energy in high school to differentiate yourself</li>
+    <li style="margin-bottom:20px">How to reach your full potential while cutting down on 
+    <br>&nbsp;&nbsp;&nbsp;
+    unnecessary time-consuming activities</li>
+    <li>A proven strategy to get into MIT and other top colleges</li>
     </ul>
 
     <br>
