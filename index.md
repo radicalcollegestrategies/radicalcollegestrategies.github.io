@@ -11,7 +11,7 @@ permalink: /
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="Dream College Goal">
 
   <div class="sectionpdContent sectionpdRight">
-    <h3>I help 8th-11th grade students in STEM gain<br>a stretegic advantage for college admissions</h3>
+    <h3>I help 8th-11th grade students in STEM gain<br>a strategic advantage for college admissions</h3>
     <ul class="yes" style="line-height: 1.7;">
     
     <li>Optimize your academic, extracurricular and summer activities</li>

@@ -4,7 +4,7 @@ permalink: /YourJourney/
 ---
 <sectionpd>
 <h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
-<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students get into top-tier colleges</h2> 
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
   <!-- src="/images/VideoIntro.png"  -->
