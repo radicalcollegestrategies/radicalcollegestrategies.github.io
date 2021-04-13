@@ -4,22 +4,26 @@ permalink: /YourJourney/
 ---
 <sectionpd>
 <h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
-<h2 style="margin:15px;">How do you stand out among your peers by <br>building a strong resume for top colleges<br> without an insane workload?</h2>
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students get into top-tier colleges</h2> 
+<h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
-  <img class="sectionpdPicture sectionpdLeft myimg" src="/images/VideoIntro.png" alt="IntroVideo" onclick="showPopup()">
+  <!-- src="/images/VideoIntro.png"  -->
+  <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;margin-top:20px" 
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
-    <ul class="yes" style="line-height: 3;">This video reveals:
+    <ul class="yes"><h3>In this short video you will learn:</h3>
     
-    <li>Why you need to plan your academics and activities early on</li>
-    <li>How doing too many things actually hurts your chances</li>
-    <li>A simple proven system to excel and get colleges to notice you</li>
+    <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
+    <li style="margin-bottom:20px">Reach your full potential and stand out from the crowd</li>
+    <li style="margin-bottom:20px">Identify and eliminate unnecessary time-consuming activities</li>
+    <li>A proven strategy to get into MIT and other top-tier colleges</li>
     </ul>
 
     <br>
 
     <p style="text-align:center;">
     <button class="mybutton" style="color:white;" onclick="showPopup()">
-    Begin your journey now
+    Get The Video
     </button>
     </p>
 
@@ -30,12 +34,14 @@ permalink: /YourJourney/
         <span onclick="hidePopup()" class="close-button topright">&times;</span>
 
         <form id="myForm" class="form-container" action="/Session/">
-            <h3>Enter your email <br> to begin your journey</h3>
+            <h3>Yes, Send Me the Free Video Now!</h3>
 
             <label for="email"></label>
-            <input type="text" placeholder="Enter Email" name="email" required>
+            <input style="max-width:270px;margin-left:45px;" type="text" placeholder="Enter Email" name="email" required>
             <p style="font-size:12px;text-align: center;">We do not sell or share your info</p>
-            <button class="mybutton" style="color:white;" type="submit" class="mybutton">Begin your journey now</button>
+            <p style="text-align:center;">
+            <button class="mybutton" style="color:white;" type="submit" class="mybutton">Send Me The Video</button>
+            </p>
         </form>
         </div>
     </div>
