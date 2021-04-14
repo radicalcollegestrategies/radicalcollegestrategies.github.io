@@ -14,7 +14,7 @@ permalink: /YourJourney/
     <ul class="yes"><h3>In this short video you will learn:</h3>
     
     <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
-    <li style="margin-bottom:20px">Differentiate yourself by focusing on impactful activities</li>
+    <li style="margin-bottom:20px">Differentiate yourself by focusing on a few impactful activities</li>
     <li>A proven strategy to get into MIT and other top-tier colleges</li>
     </ul>
 
