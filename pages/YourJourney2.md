@@ -4,7 +4,7 @@ permalink: /YourJourney2/
 ---
 <sectionpd>
 <h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
-<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students differentiate themselves<br>and get into top colleges</h2> 
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students differentiate themselves<br>and get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
   <!-- src="/images/VideoIntro.png"  -->
@@ -13,13 +13,10 @@ permalink: /YourJourney2/
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes"><h3>In this short video you will learn:</h3>
     
-    <li style="margin-bottom:20px">A model that clearly defines where to spend your time and 
-    <br>&nbsp;&nbsp;&nbsp;
-    energy in high school to differentiate yourself</li>
-    <li style="margin-bottom:20px">How to reach your full potential while cutting down on 
-    <br>&nbsp;&nbsp;&nbsp;
-    unnecessary time-consuming activities</li>
-    <li>A proven strategy to get into MIT and other top colleges</li>
+    <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
+    <li style="margin-bottom:20px">Reach your full potential and stand out from the crowd</li>
+    <li style="margin-bottom:20px">Identify and eliminate unnecessary time-consuming activities</li>
+    <li>A proven strategy to get into MIT and other top-tier colleges</li>
     </ul>
 
     <br>

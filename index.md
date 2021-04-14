@@ -25,6 +25,8 @@ permalink: /
     <p><h4 style="padding-left:0px">Create a targeted journey to get into your dream college!</h4></p>
     <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
 
+    <div class="license" style="padding-left:55px"><a style="color:black" href="/YourJourney#middle"> Click here</a> for advice for middle and elementary school students</div> 
+
   </div>
 </sectionpd>
 <br>

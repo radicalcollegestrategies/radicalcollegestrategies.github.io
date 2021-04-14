@@ -3,19 +3,18 @@ layout: default
 permalink: /YourJourney/
 ---
 <sectionpd>
-<h4 style="margin:10px;">For 8th-11th grade students in STEM:</h4>
+<h4 style="margin:10px;">8th-11th grade students in STEM:</h4>
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
   <!-- src="/images/VideoIntro.png"  -->
-  <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;margin-top:20px" 
+  <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;" 
    src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes"><h3>In this short video you will learn:</h3>
     
     <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
-    <li style="margin-bottom:20px">Reach your full potential and stand out from the crowd</li>
-    <li style="margin-bottom:20px">Identify and eliminate unnecessary time-consuming activities</li>
+    <li style="margin-bottom:20px">Differentiate yourself by focusing on impactful activities</li>
     <li>A proven strategy to get into MIT and other top-tier colleges</li>
     </ul>
 
@@ -57,6 +56,12 @@ permalink: /YourJourney/
     </div>
 
   </div>
+</sectionpd>
+
+<sectionpd id="middle">
+<h4 style="margin:10px;">Middle and elementary school students:</h4>
+<p style="text-align:center"> Please email me at <a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;"> geeta@radicalcollegestrategies.com</a> for hourly consulting rates,<br>
+and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
 </sectionpd>
 
 <script>
