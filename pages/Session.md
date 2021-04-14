@@ -5,7 +5,8 @@ permalink: /Session/
 ---
 
 <sectionpd>
-<h4>For 8th-11th grade students interested in STEM:</h4>
+<h4 style="margin-bottom:1px">8th-11th grade students interested in STEM:</h4>
+<div class="license" style="text-align:center;margin-bottom:20px;font-size:14px;"><a style="color:black;" href="/YourJourney#other">(All other students click here)</a></div>
 <h2 style="margin-top:0px;">Step1: Watch this video</h2>
 
 <iframe src="https://www.youtube.com/embed/rM7I2bVjvH4" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
@@ -34,8 +35,8 @@ permalink: /Session/
 <div class="calendly-inline-widget" data-url="https://calendly.com/geeta-radical/college-strategies?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
-
 </sectionpd>
+
 <div class="license" style="float:right">
 <a href="/Privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
 &nbsp;&nbsp;&nbsp;&nbsp;

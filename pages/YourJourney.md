@@ -3,7 +3,7 @@ layout: default
 permalink: /YourJourney/
 ---
 <sectionpd>
-<h4 style="margin:10px;">8th-11th grade students in STEM:</h4>
+<h4 style="margin:10px;">8th-11th grade U.S. students in STEM:</h4>
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
@@ -58,10 +58,10 @@ permalink: /YourJourney/
   </div>
 </sectionpd>
 
-<sectionpd id="middle">
-<h4 style="margin:10px;">Middle and elementary school students:</h4>
-<p style="text-align:center"> Please email me at <a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;"> geeta@radicalcollegestrategies.com</a> for hourly consulting rates,<br>
-and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
+<sectionpd id="other">
+<h3 style="margin:10px;">All other students:</h3>
+<p style="text-align:center">If you are in grades 7 or below, or a college student looking for some guidance:<br><a href="https://koalendar.com/e/radicalcollegestrategies" style="color:#0821af;">Book a free session here</a> to discuss your specific situation, and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </sectionpd>
 
 <script>

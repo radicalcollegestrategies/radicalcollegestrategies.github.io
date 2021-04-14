@@ -11,7 +11,9 @@ permalink: /
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="Dream College Goal">
 
   <div class="sectionpdContent sectionpdRight">
-    <h3>I help 8th-11th grade students in STEM gain<br>a strategic advantage for college admissions</h3>
+    <h3 style="margin-bottom:3px">I help 8th-11th grade students in STEM gain<br>a strategic advantage for college admissions</h3>
+        <div class="license" style="text-align:center;font-size:14px;"><a style="color:black" href="/YourJourney#other">(All other students: Click here)</a></div> 
+
     <ul class="yes" style="line-height: 1.7;">
     
     <li>Optimize your academic, extracurricular and summer activities</li>
@@ -24,8 +26,6 @@ permalink: /
 
     <p><h4 style="padding-left:0px">Create a targeted journey to get into your dream college!</h4></p>
     <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
-
-    <div class="license" style="padding-left:55px"><a style="color:black" href="/YourJourney#middle"> Click here</a> for advice for middle and elementary school students</div> 
 
   </div>
 </sectionpd>
@@ -60,13 +60,10 @@ permalink: /
 
 </sectionpd>
 
-<div class="license">
-Have younger kids? Check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.
-<div style="float:right">
+<div class="license" style="text-align:right">
 <a href="/Privacy" target="_blank" style="color: #0821af">Privacy Policy</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/Terms" target="_blank" style="color: #0821af">Terms</a>
-</div>
 <br>
 <br>
 </div>
