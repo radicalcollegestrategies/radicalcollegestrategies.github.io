@@ -60,7 +60,7 @@ permalink: /YourJourney/
 
 <sectionpd id="other">
 <h3 style="margin:10px;">All other students:</h3>
-<p style="text-align:center">If you are in grades 7 or below, or a college student looking for some guidance:<br><a href="https://koalendar.com/e/radicalcollegestrategies" style="color:#0821af;">Book a free session here</a> to discuss your specific situation, and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
+<p style="text-align:center">If you are in grades 7 or below, or a college student looking for some guidance:<br><a href="https://calendly.com/geeta-radical/middle-school" style="color:#0821af;">Book a free session here</a> to discuss your specific situation, and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </sectionpd>
 
