@@ -59,10 +59,8 @@ permalink: /YourJourney/
 </sectionpd>
 
 <sectionpd id="other">
-<h3>All other students:</h3>
-<p style="text-align:center;font-size:18px;">
-If you are in grades 7 or below, or a college student looking for some guidance:</p>
-<p style="text-align:center"><a href="https://calendly.com/geeta-radical/middle-school" style="color:#0821af;">Book a free session here</a> to discuss your specific situation, and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
+<h3>K-7 students:</h3>
+<p style="text-align:center";font-size:18px;><a href="https://calendly.com/geeta-radical/middle-school" style="color:#0821af;">Grades K-7: Book a free session here</a> to discuss your specific situation, and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </sectionpd>
 

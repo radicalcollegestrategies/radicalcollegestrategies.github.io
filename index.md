@@ -12,7 +12,7 @@ permalink: /
 
   <div class="sectionpdContent sectionpdRight">
     <h3 style="margin-bottom:3px">I help 8th-11th grade students in STEM gain<br>a strategic advantage for college admissions</h3>
-        <div class="license" style="text-align:center;font-size:14px;"><a style="color:black" href="/YourJourney#other">(All other students: Click here)</a></div> 
+        <div class="license" style="text-align:center;font-size:14px;"><a style="color:black" href="/YourJourney#other">(K-7 students: Click here)</a></div> 
 
     <ul class="yes" style="line-height: 1.7;">
     
