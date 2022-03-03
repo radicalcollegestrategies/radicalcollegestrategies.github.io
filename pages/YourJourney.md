@@ -3,7 +3,7 @@ layout: default
 permalink: /YourJourney/
 ---
 <sectionpd>
-<h3 style="margin:10px;">Grades 8-11 STEM students (U.S. only):</h3>
+<h3 style="margin:10px;">Grades 8-10 STEM students (U.S. only):</h3>
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
@@ -61,7 +61,7 @@ permalink: /YourJourney/
 <sectionpd id="other">
 <h3>Grades K-7 students:</h3>
 <p style="text-align:center;font-size:18px;"><a href="https://calendly.com/geeta-radical/middle-school" style="color:#0821af;">Grades K-7: Book a free session here</a>, and check out <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities.</p>
-<p style="text-align:center">(Grades 8-11: Watch the video above to book a session)</p>
+<p style="text-align:center">(Grades 8-10: Watch the video above to book a session)</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </sectionpd>

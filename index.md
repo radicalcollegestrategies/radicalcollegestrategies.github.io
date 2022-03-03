@@ -11,8 +11,7 @@ permalink: /
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="Dream College Goal">
 
   <div class="sectionpdContent sectionpdRight">
-    <h3 style="margin-bottom:3px">I help 8th-11th grade students in STEM gain<br>a strategic advantage for college admissions</h3>
-        <div class="license" style="text-align:center;font-size:14px;"><a style="color:black" href="/YourJourney#other">(K-7 students: Click here)</a></div> 
+    <h3 style="margin-bottom:3px">I help middle and high schoolers in STEM gain<br>a strategic advantage for college admissions</h3> 
 
     <ul class="yes" style="line-height: 1.7;">
     
@@ -24,8 +23,7 @@ permalink: /
     <li>EXCEL! Stand out among your peers</li>
     </ul>
 
-    <p><h4 style="padding-left:0px">Create a targeted journey to get into your dream college!</h4></p>
-    <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
+    {%- include buttons.html -%}
 
   </div>
 </sectionpd>
@@ -54,7 +52,9 @@ permalink: /
     <p>My daughter was very strong in Math and Robotics, but had her share of B’s in humanities classes in middle school. She wanted to get into a top college, but didn't want to take APs in subjects she didn't care for, nor wanted to participate in the usual extra curriculars her friends were taking. </p>
     <p>So I strategized with her, and we picked a couple of activities that she enjoyed and that <b>played to her strengths</b>. She gave those activities her 100%, and stood out as a definite leader! To make time to excel in these activities, she cut out a couple of APs. Her SAT score was far from perfect, yet she got <b>accepted into Computer Science at MIT, CMU and Berkeley EECS!</b> All this while getting her 8 hours of sleep throughout high school. She is now flourishing at MIT! </p>
 
-    <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
+    {%- include buttons.html -%}
+
+    <!--p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p-->
 
   </div>
 

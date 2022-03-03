@@ -28,7 +28,7 @@ permalink: /Testimonials/
 </section50short>
 
 <section50short> 
-    <p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p>
+    {%- include buttons.html -%}
 </section50short>
 
 <div class="license" style="float:right">

@@ -119,6 +119,38 @@ img {
   background-color: #1676dd;
 }
 
+.mybuttonsmall {
+  background-color: #1165be;
+  border-radius: 6px;
+  border: none;
+  padding: 10px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Marko One';
+}
+
+.mybuttonsmall:hover {
+  background-color: #1676dd;
+}
+
+.note{
+  background-color: #e2e8fd;
+  height: 120px;
+  width: 580px;
+  float: center;
+  border: 2px solid #0b325c;
+  border-radius: 25px; /* top left, top right, bottom right, bottom left */
+  padding: 0 0 15px 0; /* top, right, bottom, left */
+}
+
+.notewrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .mybox {
   background-color: #b9d7f8;
   border-radius: 6px;
