@@ -14,8 +14,7 @@ permalink: /
     <h3 style="margin-bottom:3px">I help 8th-11th grade students in STEM gain<br>a strategic advantage for college admissions</h3>
     
     <div class="license" style="text-align:center;font-size:14px;">
-    <a style="color:black" href="/YourJourney#other">(K-7 students: Click here)</a> &nbsp; &nbsp; &nbsp; &nbsp; 
-    <a style="color:black" href="https://calendly.com/geeta-radical/college-counseling">(Rising seniors: Book a free session here)</a>
+    <a style="color:black" href="/YourJourney#other">(K-7 students and Rising seniors (Grade 12): Click here)</a> 
     </div> 
 
     <!--h3 style="margin-bottom:3px">I help middle and high schoolers in STEM gain<br>a strategic advantage for college admissions</h3--> 
