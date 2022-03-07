@@ -1,6 +1,8 @@
 ---
-from: VG, Archbishop Mitty High School
+from: Parents of VG, UPenn Class of 2026
 ---
-<p>I'm a Junior and so far have taken AP courses based on what was available and what my friends took. I also lead the robotics team at school. I hoped these efforts would be sufficient to get me into my target college, but honestly, I had little clue. Our school counselor provided good but generic advice, and I was looking for something tailored to my situation and ambition.</p>
+<p>My son attended a private school in the SF Bay Area. He has been an A student and taken many AP courses, in addition to leading the school robotics team. The school counselor covered the essentials of college admissions but we were lacking specific advice tailored to my son's ambitions and goals.</p>
 
-<p>During our 1-1 conversation, Geeta focused intently on which courses I should take in my senior year and gave me a prioritized list of <b>3 specific summer programs</b> that were strongly aligned with my interest in engineering and robotics, and would make me stand out in my college application. She was very knowledgeable about the dual degree programs I was interested in and guided me on what it would take to get into those programs. Her direct style and clarity of thought provided me a <b>clear sense of where to direct my energy</b> for the remaining time. Looking back, I would have benefited immensely if I had started a conversation with Geeta a couple of years ago.</p>
+<p>Geeta adviced my son on course selection for his senior year and prioritized summer opportunities to help him <b>clearly understand the impact of different activities</b> in the admissions process. Many of her suggestions were not obvious or intuitive and made a huge difference in <b>allocation of limited time and energy</b> of an already overwhelmed high schooler. She did a thorough review of college applications and provided a number of <b>critical insights and suggestions</b> that he missed even after several iterations with the school teachers and counselor. </p>
+
+<p>Geeta brings a wealth of experience in helping high potential students stand out in their college applications. Our son was accepted at an Ivy League school and we believe Geeta played a critical role in supporting his efforts.</p>
