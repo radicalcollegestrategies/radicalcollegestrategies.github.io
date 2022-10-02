@@ -39,7 +39,9 @@ permalink: /
   <div class="sectionpdContent sectionpdLeft">
     <h3>Meet Geeta Arora</h3>
     <p>I am a college strategist and mentor who has helped numerous high school students discover their unique interests and build a strong cohesive resume for getting into top colleges. I firmly believe that if you pursue your passion, then your life journey automatically becomes a heartfelt college essay!</p>
-    <p>In my past life, I was a software architect at Oracle and in my spare time I coached students for Math, Robotics, and USACO competitions. Over the years, my students have consistently ranked in the top 3 at MathCounts Chapter Competitions, and have earned Distinction in AMC8, AMC10 and AMC12. In robotics, my students have won awards at FLL and FRC state championships. In addition, my students have reached USACO Platinum Level and even USACO Camp. I continue to guide my students to excel at their unique talents.</p>
+
+    <p>In my past life, I was known as Geeta Tarachandani, All India Rank 5 in IIT-JEE, and President's Gold Medalist. Thereafter, I was a software architect at Oracle and in my spare time I coached students for Math, Robotics, and USACO competitions. My students consistently ranked high in MathCounts and AMC-8/10/12. In robotics, my students have won awards at FLL and FRC state championships. In addition, my students have reached USACO Platinum and USACO Camp. I continue to guide my students to excel at their unique talents.</p>
+
     <p>I observed that the biggest mistake high school students make is to take on a crazy workload which leads to burnout and yet their story does not stand out as impressive to colleges. This led me to found Radical College Strategies.</p> 
 
     <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
@@ -55,15 +57,30 @@ permalink: /
   <div class="sectionpdContent sectionpdRight">
     <h3>How it all began... From B's to MIT</h3>
 
-    <p>My daughter was very strong in Math and Robotics, but had her share of B’s in humanities classes in middle school. She wanted to get into a top college, but didn't want to take APs in subjects she didn't care for, nor wanted to participate in the usual extra curriculars her friends were taking. </p>
-    <p>So I strategized with her, and we picked a couple of activities that she enjoyed and that <b>played to her strengths</b>. She gave those activities her 100%, and stood out as a definite leader! To make time to excel in these activities, she cut out a couple of APs. Her SAT score was far from perfect, yet she got <b>accepted into Computer Science at MIT, CMU and Berkeley EECS!</b> All this while getting her 8 hours of sleep throughout high school. She is now flourishing at MIT! </p>
+    <p>My elder daughter was very strong in Math and Robotics, but had her share of B’s in humanities classes in middle school. She wanted to get into a top college, but didn't want to take APs in subjects she didn't care for, nor wanted to participate in the usual extra curriculars her friends were taking. </p>
+    <p>So I strategized with her, and we picked a couple of activities that she enjoyed and that <b>played to her strengths</b>. She gave those activities her 100%, and stood out as a definite leader! To make time to excel in these activities, she cut out a couple of APs. Her SAT score was far from perfect, yet she got <b>accepted into Computer Science at MIT, CMU and Berkeley EECS!</b> All this while getting her 8 hours of sleep throughout high school. </p>
+    <p>The life skills she learned during high school are coming in handy in college. She runs a successful business while working towards her Masters (CS) at MIT! </p>
+
+    <!--p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p-->
+  </div>
+</sectionpd>
+
+<sectionpd>
+  <div class="sectionpdContent sectionpdLeft">
+    <h3>A different journey to MIT</h3>
+
+    <p>My younger daughter had different strengths than her sister. Besides, by
+    the time she entered high school, the landscape had changed. Though only 3 years younger to her sister, she faced a lot more competition both at school and nationally. It became clear that we would need fresh strategies.</p>
+    
+    <p>So we expanded to a richer set of meaningful extra-curriculars. She worked hard to reach well-defined goals, while maintaining a healthy study-social balance.</p>
+    
+    <p>Her hard work paid off when she got <b>early acceptance into MIT Computer Science</b>. She is now flourishing at MIT, enjoying the probabiluty class as much as the shakespeare club! </p>
 
     {%- include buttons.html -%}
 
     <!--p style="text-align:center;"><a href="/YourJourney" class="mybutton" style=" color:white">Begin Your Journey</a></p-->
-
   </div>
-
+  <img class="sectionpdPicture sectionpdRight" src="/images/RaynaMIT.jpg" alt="My daughter">
 </sectionpd>
 
 <div class="license" style="text-align:right">
