@@ -72,9 +72,9 @@ permalink: /
     <p>My younger daughter had different strengths than her sister. Besides, by
     the time she entered high school, the landscape had changed. Though only 3 years younger to her sister, she faced a lot more competition both at school and nationally. It became clear that we would need fresh strategies.</p>
     
-    <p>So we expanded to a richer set of meaningful extra-curriculars. She worked hard to reach well-defined goals, while maintaining a healthy study-social balance.</p>
+    <p>So we expanded to a richer set of meaningful extra-curriculars. She worked hard to reach well-defined goals in her intended major and community service. She was still able to pursue her creative hobbies and have a social life.</p>
     
-    <p>Her hard work paid off when she got <b>early acceptance into MIT Computer Science</b>. She is now flourishing at MIT, enjoying the probabiluty class as much as the shakespeare club! </p>
+    <p>She is now flourishing at <b>MIT Computer Science</b> after getting early acceptance, enjoying the probability class as much as the shakespeare club! </p>
 
     {%- include buttons.html -%}
 
