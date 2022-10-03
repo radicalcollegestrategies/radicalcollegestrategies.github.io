@@ -72,7 +72,7 @@ permalink: /
     <p>My younger daughter had different interests than her sister. Besides, by
     the time she entered high school, the landscape had changed. She faced a lot more competition both at school and nationally. It became clear that we would need fresh strategies.</p>
     
-    <p>So we expanded to a richer set of meaningful extra-curriculars. She worked hard to excel in <b>well-defined goals</b> in her intended major and community service, while still <b>having fun</b> with her social life and creative hobbies.</p>
+    <p>So we expanded to a richer set of meaningful extra-curriculars. She worked hard to excel at <b>well-defined goals</b> in her intended major and community service, while still <b>having fun</b> with her social life and creative hobbies.</p>
     
     <p>She is now flourishing at <b>MIT Computer Science</b> after getting early acceptance, enjoying the probability class as much as the Shakespeare club! </p>
 
