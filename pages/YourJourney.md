@@ -18,6 +18,8 @@ permalink: /YourJourney/
     <li>A proven strategy to get into MIT and other top-tier colleges</li>
     </ul>
 
+    <p style="margin-left:40px;color:red">Sorry, there are currently no slots available for new students. <br> Please check back in December 2022.</p>
+
     <br>
 
     <p style="text-align:center;">
