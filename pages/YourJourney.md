@@ -61,12 +61,18 @@ permalink: /YourJourney/
 </sectionpd>
 
 <sectionpd id="other">
-<h3>Other students:</h3>
-<!--p style="text-align:center;font-size:18px;"-->
-<p><b>Grades K-7:</b> If your child is a motivated middle schooler looking to gain an early advantage in USA Computing Olympiad, math competitions, science fair and other national STEM events, please <a href="https://calendly.com/geeta-radical/middle-school" style="color:#0821af;">book a free session here</a>. Others, please visit <a href="https://stemscholars.github.io" target="_blank" style="color: #0821af;">STEM Scholars</a> for high quality STEM activities, and <b>contact me in the spring of 8th grade</b> to turbocharge your high school experience!</p>
+<h3>Middle School</h3>
+<p> If your middle schooler falls in one of the following categories, please <a href="https://calendly.com/geeta-radical/middle-school"  target="_blank" style="color:#0821af;">book a free session here</a>:
+    <ul>
+    <li>Students looking to gain clarity on what to major in. I help them explore activities in different areas so they can identify their major before they enter high school.</li>
+    <li>Students looking to gain an early advantage in USA Computing Olympiad, math competitions, science fair and other national STEM events</li>
+    </ul>
 
-<p><b>Seniors (College Applications):</b> For college applications, I exclusively help students who have been working with me over the years. I typically don't take on rising seniors as new students, but if you have a very strong STEM profile, please <a href="https://docs.google.com/spreadsheets/d/1U_qaVM32ebqJxPkqoVopKzgctz7m_cgjuawbRcKJ5Zw/edit#gid=1398217924" style="color:#0821af;">fill out this spreadsheet</a>, and I'll see what I can do.</p>
-<p style="text-align:center">(Grades 8-11: Watch the video above to book a session)</p>
+Others, please <b>contact me in the spring of 8th grade</b> to turbocharge your high school experience!</p>
+
+<h3>Seniors (College Applications)</h3>
+<p>For college applications, I exclusively help students who have been working with me over the years. I typically don't take on rising seniors as new students, but if you have a very strong STEM profile, please <a href="https://docs.google.com/spreadsheets/d/1U_qaVM32ebqJxPkqoVopKzgctz7m_cgjuawbRcKJ5Zw/edit#gid=1398217924" target="_blank" style="color:#0821af;">fill out this spreadsheet</a>, and I'll see what I can do.</p>
+<p style="text-align:center">(Grades 8-11: Watch the video on the top of this page to book a session)</p>
 
 <!--p style="text-align:center;font-size:18px;"><b>Rising seniors:</b> (late Grade 11-early Grade 12): <a href="https://calendly.com/geeta-radical/college-counseling" style="color:#0821af;">Book a free session here</a> for help with college admissions.</p>
 <p style="text-align:center">(Grades 8-11: Watch the video above to book a session)</p-->
