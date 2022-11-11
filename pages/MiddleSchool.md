@@ -9,7 +9,7 @@ permalink: /MiddleSchool/
 </div> 
 
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">Do you have clarity into what subjects / major <br> you want to excel in?</h2>
-<h3 style="margin-top:5px;margin-bottom:0px;color:black">- in High School and beyond</h3>
+<!--h3 style="margin-top:5px;margin-bottom:0px;color:black">- in High School and beyond</h3-->
 </section50short>
 
 <section50>
@@ -17,12 +17,14 @@ permalink: /MiddleSchool/
 <h3>Yes! <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> have a couple favorite subjects</h3>
     <ul class="yes" style="font-size: 16px;padding-left:10px"><h4 style="text-align:left; padding-left:28px">In this short video you will learn how to:</h4>
     
-    <li style="margin-bottom:20px">Deep dive into your interest using prestigious competitions</li>
+    <li style="margin-bottom:20px">Differentiate impactful prestigious activities from time-sinks</li>
     <li style="margin-bottom:20px">Gain a head start by narrowing down your interests further</li>
+    <li>Differentiate yourself early to maintain the edge in high school</li>
+    <li>-----------------------------------------</li>
+    <li style="margin-bottom:20px">Deep dive into your interest using prestigious competitions</li>
     <li style="margin-bottom:20px">Gain significant advantage entering High School</li>
     <li style="margin-bottom:20px">Gain an edge over your classmates</li>
     <li style="margin-bottom:20px">Stand out from your classmates through early wins</li>
-    <li>Differentiate yourself early to maintain the edge in high school</li>
     </ul>
   <img style="width: 400px;" 
    src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
@@ -40,9 +42,14 @@ permalink: /MiddleSchool/
     <ul class="yes" style="font-size: 16px;padding-left:10px"><h4>In this short video you will learn:</h4>
     
     <li style="margin-bottom:20px">Why it is critical to narrow down your interests before entering high school</li>
+    <li style="margin-bottom:20px">Why you need to explore way beyond school curriculum</li>
+    <li>How to make your subsequent high school journey more targeted and stress-free</li>
+    <li>-----------------------------------------</li>
+    <li style="margin-bottom:20px">Why it's important to explore things beyond what's taught in school</li>
+    <li style="margin-bottom:20px">How much foundation do school subjects provide and how much does one need to explore oneself</li>
     <li style="margin-bottom:20px">How to explore the different major / career options</li>
     <li style="margin-bottom:20px">How to have a stress-free high school journey with no flundering</li>
-    <li>How to make your high school journey more targeted and stress-free</li>
+    <li style="margin-bottom:20px">How to enter high school with a plan</li>
     </ul>
 
   <img style="width: 400px;" 
