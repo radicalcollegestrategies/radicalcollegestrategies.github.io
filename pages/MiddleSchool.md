@@ -21,7 +21,8 @@ permalink: /MiddleSchool/
     <li style="margin-bottom:20px">Gain a head start by narrowing down your interests further</li>
     <li style="margin-bottom:20px">Gain significant advantage entering High School</li>
     <li style="margin-bottom:20px">Gain an edge over your classmates</li>
-    <li>Stand out from your classmates through early wins</li>
+    <li style="margin-bottom:20px">Stand out from your classmates through early wins</li>
+    <li>Differentiate yourself early to maintain the edge in high school</li>
     </ul>
   <img style="width: 400px;" 
    src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
@@ -40,7 +41,8 @@ permalink: /MiddleSchool/
     
     <li style="margin-bottom:20px">Why it is critical to narrow down your interests before entering high school</li>
     <li style="margin-bottom:20px">How to explore the different major / career options</li>
-    <li>How to have a stress-free high school journey with no flundering</li>
+    <li style="margin-bottom:20px">How to have a stress-free high school journey with no flundering</li>
+    <li>How to make your high school journey more targeted and stress-free</li>
     </ul>
 
   <img style="width: 400px;" 
