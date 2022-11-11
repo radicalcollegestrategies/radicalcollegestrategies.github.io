@@ -2,35 +2,57 @@
 layout: default
 permalink: /MiddleSchool/
 ---
-<sectionpd>
-<h3 style="margin:10px;">Grades K-7 STEM students (U.S. only):</h3>
+<section50short>
+<h3 style="margin:10px;">Hello, Middle School STEM students (U.S. only):</h3>
 <div class="license" style="text-align:center;font-size:14px;">
-    <a style="color:black" href="/HighSchool">High School Students: Click here</a>
+    ( <a style="color:blue" href="/HighSchool">High School Students: Click here</a> )
 </div> 
 
-<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help middle school students <br>gain early advantage in Competitions</h2> 
-<h3 style="margin-top:5px;color:black">Math, Robotics and Coding</h3>
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">Do you have clarity into what subjects / major <br> you want to excel in?</h2>
+<h3 style="margin-top:5px;margin-bottom:0px;color:black">- in High School and beyond</h3>
+</section50short>
 
-  <!-- src="/images/VideoIntro.png"  -->
-  <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
-  <div class="sectionpdContent sectionpdRight">
-    <ul class="yes"><h3>In this short video you will learn:</h3>
+<section50>
+<div class="section50left">
+<h3>Yes! <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> have a couple favorite subjects</h3>
+    <ul class="yes" style="font-size: 16px;padding-left:10px"><h4 style="text-align:left; padding-left:28px">In this short video you will learn how to:</h4>
     
-    <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
-    <li style="margin-bottom:20px">Differentiate yourself by focusing on a few impactful activities</li>
-    <li>A proven strategy to get into MIT and other top-tier colleges</li>
+    <li style="margin-bottom:20px">Deep dive into your interest using prestigious competitions</li>
+    <li style="margin-bottom:20px">Gain a head start by narrowing down your interests further</li>
+    <li style="margin-bottom:20px">Gain significant advantage entering High School</li>
+    <li style="margin-bottom:20px">Gain an edge over your classmates</li>
+    <li>Stand out from your classmates through early wins</li>
     </ul>
+  <img style="width: 400px;" 
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
 
-    <p style="margin-left:40px;color:red">Sorry, there are currently no slots available for new students. <br> Please check back in January 2023.</p>
-
-    <br>
-
-    <p style="text-align:center;">
+    <p style="text-align:center;padding-top:20px">
     <button class="mybutton" style="color:white;" onclick="showPopup()">
     Get The Video
     </button>
     </p>
+
+</div>
+
+<div class="section50right">
+<h3>Umm... Do <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> really need to do that now?</h3>
+    <ul class="yes" style="font-size: 16px;padding-left:10px"><h4>In this short video you will learn:</h4>
+    
+    <li style="margin-bottom:20px">Why it is critical to narrow down your interests before entering high school</li>
+    <li style="margin-bottom:20px">How to explore the different major / career options</li>
+    <li>How to have a stress-free high school journey with no flundering</li>
+    </ul>
+
+  <img style="width: 400px;" 
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
+
+    <p style="text-align:center;padding-top:20px">
+    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    Get The Video
+    </button>
+    </p>
+
+</div>
 
     <div class="popup">
         <div class="blocker" onclick="hidePopup()"></div>
@@ -61,65 +83,8 @@ permalink: /MiddleSchool/
         </div>
     </div>
 
-  </div>
-</sectionpd>
+</section50>
 
-<sectionpd>
-<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help undecided students gain clarity into what subects to pursue in High School</h2> 
-<h3 style="margin-top:5px;color:black">without an insane workload</h3>
-
-  <!-- src="/images/VideoIntro.png"  -->
-  <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
-  <div class="sectionpdContent sectionpdRight">
-    <ul class="yes"><h3>In this short video you will learn:</h3>
-    
-    <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
-    <li style="margin-bottom:20px">Differentiate yourself by focusing on a few impactful activities</li>
-    <li>A proven strategy to get into MIT and other top-tier colleges</li>
-    </ul>
-
-    <p style="margin-left:40px;color:red">Sorry, there are currently no slots available for new students. <br> Please check back in January 2023.</p>
-
-    <br>
-
-    <p style="text-align:center;">
-    <button class="mybutton" style="color:white;" onclick="showPopup()">
-    Get The Video
-    </button>
-    </p>
-
-    <div class="popup">
-        <div class="blocker" onclick="hidePopup()"></div>
-        <div class="contents">
-
-        <span onclick="hidePopup()" class="close-button topright">&times;</span>
-
-        <form id="myForm" class="form-container" action="/Session/">
-            <h3>Yes, Send Me the Free Video Now!</h3>
-
-            <label for="email"></label>
-            <input style="max-width:270px;margin-left:45px;" type="text" placeholder="Enter Email" name="email" required>
-            <p style="font-size:12px;text-align: center;">We do not sell or share your info</p>
-            <p style="text-align:center;">
-            <button class="mybutton" style="color:white;" type="submit" class="mybutton">Send Me The Video</button>
-            </p>
-        </form>
-        </div>
-    </div>
-
-    <div class="popup2">
-        <div class="contents">
-        <form id="myForm2" class="form-container">
-
-          <p><h3>Thank You!</h3></p>
-          <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
-        </form>
-        </div>
-    </div>
-
-  </div>
-</sectionpd>
 
 <script>
 const popup = document.querySelector('.popup');
