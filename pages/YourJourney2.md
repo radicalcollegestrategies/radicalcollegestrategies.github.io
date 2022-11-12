@@ -7,7 +7,7 @@ permalink: /YourJourney2/
 <h2 style="color:black">What describes you best?</h2> 
 
 <h3 style="margin-bottom:0px;color:black">Are you a high school student?</h3> 
-<h4 style="margin-top:5px;margin-bottom:0px;color:black">(including rising high-schoolers, ie, 8th graders in spring semester)</h4>
+<h4 style="margin-top:5px;margin-bottom:0px;color:black">(including rising high-schooler, ie, 8th grader in spring semester)</h4>
 
 <div class="section50left">
 
@@ -17,7 +17,7 @@ permalink: /YourJourney2/
 
 <div class="section50right">
     <h3>Nope, I'm a middle school student</h3> 
-    <h1><b>&darr; </b>Look below</h1>
+    <h1><b>&darr;</b> Look below <b>&darr;</b></h1>
 
 </div>
 </section50short>
@@ -33,7 +33,7 @@ permalink: /YourJourney2/
 </div>
 
 <div class="section50right">
-    <p style="text-align:center;"><a href="/MiddleSchoolExplore" class="mybutton" style=" color:white">Umm ... Do I really need to know that this early?</a></p>
+    <p style="text-align:center;"><a href="/MiddleSchoolExplore" class="mybutton" style=" color:white">Ummm ... Do I really need to know that this early?</a></p>
 </div>
 
 </section50short>
