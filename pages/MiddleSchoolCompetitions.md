@@ -5,7 +5,7 @@ permalink: /MiddleSchoolCompetitions/
 <sectionpd>
 <h3 style="margin:10px;">Middle School STEM students (U.S. only):</h3>
 
-<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help  students excel in competitions<br>to gain an early edge before high school</h2> 
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students excel in competitions<br>to gain an early edge before high school</h2> 
 <h3 style="margin-top:5px;color:black">while avoiding time-sinks</h3>
 
   <!-- src="/images/VideoIntro.png"  -->

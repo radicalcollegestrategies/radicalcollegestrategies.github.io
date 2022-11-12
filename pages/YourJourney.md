@@ -3,7 +3,12 @@ layout: default
 permalink: /YourJourney/
 ---
 <sectionpd>
-<h3 style="margin:10px;">Grades 8-11 STEM students (U.S. only):</h3>
+<h3 style="margin:10px;">Grades 8<div style="display:inline;font-size:16px">(spring)</div> - 11 STEM students (U.S. only):</h3>
+<div class="license" style="text-align:center;font-size:14px;">
+    <a style="color:blue" href="#senior">Rising Seniors: Click here</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="color:blue" href="/MiddleSchool">Upto Grade 8(fall): Click here</a> 
+</div> 
+
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
@@ -70,7 +75,7 @@ permalink: /YourJourney/
 
 Others, please <b>contact me in the spring of 8th grade</b> to turbocharge your high school experience!</p>
 
-<h3>Seniors (College Applications)</h3>
+<h3 id="senior">Seniors (College Applications)</h3>
 <p>For college applications, I exclusively help students who have been working with me over the years. I typically don't take on rising seniors as new students, but if you have a very strong STEM profile, please <a href="https://docs.google.com/spreadsheets/d/1U_qaVM32ebqJxPkqoVopKzgctz7m_cgjuawbRcKJ5Zw/edit#gid=1398217924" target="_blank" style="color:#0821af;">fill out this spreadsheet</a>, and I'll see what I can do.</p>
 <p style="text-align:center">(Grades 8-11: Watch the video on the top of this page to book a session)</p>
 

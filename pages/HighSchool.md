@@ -3,10 +3,10 @@ layout: default
 permalink: /HighSchool/
 ---
 <sectionpd>
-<h3 style="margin:10px;">Grades 8-11 STEM students (U.S. only):</h3>
+<h3 style="margin:10px;">Grades 8(spring)-11 STEM students (U.S. only):</h3>
 <!--div class="license" style="text-align:center;font-size:14px;">
     <a style="color:blue" href="#senior">Rising Seniors: Click here</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a style="color:blue" href="/MiddleSchool">K-7 students: Click here</a> 
+    <a style="color:blue" href="/MiddleSchool">Middle school students: Click here</a> 
 </div--> 
 
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
