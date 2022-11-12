@@ -8,7 +8,7 @@ permalink: /MiddleSchool/
     ( <a style="color:blue" href="/HighSchool">High School Students: Click here</a> )
 </div> 
 
-<h2 style="margin-top:15px;margin-bottom:0px;color:black">Do you have clarity into what subjects / major <br> you want to excel in?</h2>
+<h2 style="margin-top:15px;margin-bottom:0px;color:black">Do you have clarity on what subjects / major <br> you want to excel in?</h2>
 <!--h3 style="margin-top:5px;margin-bottom:0px;color:black">- in High School and beyond</h3-->
 </section50short>
 

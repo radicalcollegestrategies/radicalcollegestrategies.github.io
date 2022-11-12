@@ -4,10 +4,10 @@ permalink: /HighSchool/
 ---
 <sectionpd>
 <h3 style="margin:10px;">Grades 8-11 STEM students (U.S. only):</h3>
-<div class="license" style="text-align:center;font-size:14px;">
+<!--div class="license" style="text-align:center;font-size:14px;">
     <a style="color:blue" href="#senior">Rising Seniors: Click here</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a style="color:blue" href="/MiddleSchool">K-7 students: Click here</a> 
-</div> 
+</div--> 
 
 <h2 style="margin-top:15px;margin-bottom:0px;color:black">3 ways <div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div> help students gain strategic advantage<br>to get into top-tier colleges</h2> 
 <h3 style="margin-top:5px;color:black">without an insane workload</h3>
@@ -73,7 +73,11 @@ permalink: /HighSchool/
 <!--p style="text-align:center;font-size:18px;"><b>Rising seniors:</b> (late Grade 11-early Grade 12): <a href="https://calendly.com/geeta-radical/college-counseling" style="color:#0821af;">Book a free session here</a> for help with college admissions.</p>
 <p style="text-align:center">(Grades 8-11: Watch the video above to book a session)</p-->
 
-<br><br><br><br><br><br><br><br><br>
+<sectionpd>
+    <h3 style="margin-top:0px;color:black">Still in Middle School? Try the <a style="color:blue" href="/YourJourney2">other paths</a></h3>
+</sectionpd>
+
+<!--br><br><br><br><br><br><br><br><br-->
 
 </sectionpd>
 
