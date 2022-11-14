@@ -3,7 +3,7 @@ layout: default
 permalink: /HighSchool/
 ---
 <sectionpd>
-<h3 style="margin:10px;">Grades 8(spring)-11 STEM students (U.S. only):</h3>
+<h3 style="margin:10px;">Grades 8-11 STEM students (U.S. only):</h3>
 <!--div class="license" style="text-align:center;font-size:14px;">
     <a style="color:blue" href="#senior">Rising Seniors: Click here</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a style="color:blue" href="/MiddleSchool">Middle school students: Click here</a> 
