@@ -13,7 +13,8 @@ permalink: /MiddleSchool/
 
 <section50>
 <div class="section50left">
-<h3>Yes <div style="display:inline;color:green"><b> &#10003;</b></div> <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> have 2-3 favorite subjects. <br>I want to explore competitions!</h3>
+<h3><img style="width:25px;display:inline;" src="/images/CheckMark.png" /> 
+     Yes! <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> have 2-3 favorite subjects. <br>I want to explore competitions!</h3>
     <ul class="yes" style="font-size: 16px;padding-left:10px">
       <h4 style="text-align:left; padding-left:50px;color:black">In this short video you will learn how to:</h4>
     
@@ -33,7 +34,8 @@ permalink: /MiddleSchool/
 </div>
 
 <div class="section50right">
-<h3>Ummm <div style="display:inline;color:red"><b> ???</b></div> Do <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> really need to worry about that this early?</h3>
+<h3><img style="width:23px;display:inline;" src="/images/QuestionMarkBackground.png" /> 
+    Ummm ... Do <div style="display:inline;font-family:Courier New;font-size:26px;"><b>I</b></div> really need to <br> worry about that this early?</h3>
     <ul class="yes" style="font-size: 16px;padding-left:10px"><h4 style="color:black">In this short video you will learn:</h4>
     
     <li style="margin-bottom:20px">Why it is critical to narrow down your interests in middle school</li>
