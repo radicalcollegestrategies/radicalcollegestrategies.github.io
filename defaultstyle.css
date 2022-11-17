@@ -31,7 +31,7 @@ header {
 
 .gallery {
   height: 20px;
-  padding: 0 10px 0 10px; /* top, right, bottom, left */
+  padding: 0; /* top, right, bottom, left */
   margin: 0px;  
   float: left;
   font-size: 18px;
@@ -39,6 +39,10 @@ header {
 }
 
 /**************** Layout Styles *****************/
+html {
+  scroll-behavior: smooth;
+}
+
 h1, h2, h3, h4 {
   line-height: 1;
   letter-spacing: 0;
@@ -146,10 +150,21 @@ img {
   margin: 0px;
 }
 
+.notesmall{
+  background-color: #e2e8fd;
+  height: 32px;
+  width: 470px;
+  border: 2px solid #1165be; /*0b325c;*/
+  border-radius: 3px; /* top left, top right, bottom right, bottom left */
+  padding: 1px 1px 0 1px; /* top, right, bottom, left */
+  margin: 0px;
+}
+
 .notewrapper{
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 3px;
 }
 
 .mybox {
@@ -196,19 +211,9 @@ td {
 }
 
 /************************* Lists *******************/
-ul.aboutl1 {
-  font-size: 18px;
-  line-height: 2;
-  list-style-type: none;
-  text-align:left;
-}
-
-ul.aboutl2 {
-  font-weight: 100;
+ul.simple {
   font-size: 14px;
-  font-style: italic;
-  line-height: 1.3;
-  list-style-type: none;
+  line-height: 1.2;
   text-align:left;
 }
 
@@ -222,11 +227,9 @@ ul.yes, ul.no {
 
 ul.yes li:before { content:"\2713\0020"; color:green} 
 ul.yes ul li:before {content: none}
-ul.yes ul.aboutl2 {list-style-type: circle}
 
 ul.no li:before { content:"\2717\0020"; color:rgb(129, 3, 3)} 
 ul.no ul li:before {content: none}
-ul.no ul.aboutl2 {list-style-type: circle}
 
 ul.disc {
   font-size: 18px;
@@ -320,19 +323,19 @@ sectionpd:after {
 
 /*************** Section for half and half **************/
 section50 {
-  padding: 0px 0 0px 0; /* top, right, bottom, left */
+  padding: 20px 0 20px 0; /* top, right, bottom, left */
+  width: 1000px;
   margin: auto;    /* Centers the item in horizontal direction */
   display: block;  /* Displays it in it's own line */
-  width: 1000px;
   text-align:center;
   min-height: 320px;
 }
 
 section50short {
-  padding: 0px 0 0px 0; /* top, right, bottom, left */
+  padding: 20px 0 20px 0; /* top, right, bottom, left */
+  width: 1000px;
   margin: auto;    /* Centers the item in horizontal direction */
   display: block;  /* Displays it in it's own line */
-  width: 1000px;
   text-align:center;
 }
 
