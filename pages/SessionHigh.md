@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Strategy Session - Radical College Strategies
-permalink: /Session/
+permalink: /SessionHigh/
 ---
 
 <sectionpd>
-<h4 style="margin-bottom:1px">8th-11th grade students interested in STEM:</h4>
-<div class="license" style="text-align:center;margin-bottom:20px;font-size:14px;"><a style="color:black;" href="/YourJourney#other">(All other students click here)</a></div>
+<h4 style="margin-bottom:1px">Grades 8(spring) - 11 STEM students:</h4>
+<div class="license" style="text-align:center;margin-bottom:20px;font-size:14px;"><a style="color:black;" href="/YourJourney2">(All other students click here)</a></div>
 <h2 style="margin-top:0px;">Step1: Watch this video</h2>
 
 <iframe src="https://www.youtube.com/embed/rM7I2bVjvH4" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
@@ -17,7 +17,7 @@ permalink: /Session/
 <h2 style="font-size: 29px;margin-top:10px;margin-bottom:10px">Step2: Schedule a free breakthrough strategy session with Geeta</h2>
 <div class="row3">
 <div><b>Stand out among your peers</b></div>
-<div><b>Build a strong resume for top colleges</b></div>
+<div><b>Build strong resume for top colleges</b></div>
 <div><b>No insane workload!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></div>
 </div>
 <br>

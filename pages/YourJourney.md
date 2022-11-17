@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Your Journey - RCS
 permalink: /YourJourney/
 ---
 <sectionpd>
@@ -40,7 +41,7 @@ permalink: /YourJourney/
 
         <span onclick="hidePopup()" class="close-button topright">&times;</span>
 
-        <form id="myForm" class="form-container" action="/Session/">
+        <form id="myForm" class="form-container" action="/SessionHigh/">
             <h3>Yes, Send Me the Free Video Now!</h3>
 
             <label for="email"></label>
@@ -66,8 +67,8 @@ permalink: /YourJourney/
   </div>
 </sectionpd>
 
-<sectionpd id="other">
-<h3>Middle School</h3>
+<sectionpd>
+<h3 id="other">Middle School</h3>
 <p> If your middle schooler falls in one of the following categories, please <a href="https://calendly.com/geeta-radical/middle-school"  target="_blank" style="color:#0821af;">book a free session here</a>:
     <ul>
     <li>Students looking to gain clarity on what to major in. I help them explore activities in different areas so they can identify their major before they enter high school.</li>
