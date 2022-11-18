@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strategy Session - Radical College Strategies
+title: Strategy Session - Exploration RCS
 permalink: /SessionMidExplore/
 ---
 

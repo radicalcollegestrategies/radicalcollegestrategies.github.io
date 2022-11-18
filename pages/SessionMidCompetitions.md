@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strategy Session - RCS
+title: Strategy Session - Competitions RCS
 permalink: /SessionMidCompetitions/
 ---
 

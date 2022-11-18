@@ -20,19 +20,19 @@ permalink: /YourJourney2/
     <li>Develop a strong foundation to maintain the edge in high school</li>
     </ul>
   <img style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupMidComp()">
 
     <p style="text-align:center;padding-top:20px">
-    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    <button class="mybutton" style="color:white;" onclick="showPopupMidComp()">
     Get The Video
     </button>
     </p>
 
-    <div class="popup">
-        <div class="blocker" onclick="hidePopup()"></div>
+    <div id="popupMidComp" class="popup">
+        <div class="blocker" onclick="hidePopupMidComp()"></div>
         <div class="contents">
 
-        <span onclick="hidePopup()" class="close-button topright">&times;</span>
+        <span onclick="hidePopupMidComp()" class="close-button topright">&times;</span>
 
         <form id="myFormMidComp" class="form-container" action="/SessionMidCompetitions/">
             <h3>Yes, Send Me the Free Video Now!</h3>
@@ -47,9 +47,9 @@ permalink: /YourJourney2/
         </div>
     </div>
 
-    <div class="popup2">
+    <div id="popup2MidComp" class="popup2">
         <div class="contents">
-        <form id="myForm2" class="form-container">
+        <form id="myForm2Comp" class="form-container">
 
           <p><h3>Thank You!</h3></p>
           <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
@@ -70,19 +70,19 @@ permalink: /YourJourney2/
     </ul>
 
   <img style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupMidExpl()">
 
     <p style="text-align:center;padding-top:20px">
-    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    <button class="mybutton" style="color:white;" onclick="showPopupMidExpl()">
     Get The Video
     </button>
     </p>
 
-    <div class="popup">
-        <div class="blocker" onclick="hidePopup()"></div>
+    <div id="popupMidExpl" class="popup">
+        <div class="blocker" onclick="hidePopupMidExpl()"></div>
         <div class="contents">
 
-        <span onclick="hidePopup()" class="close-button topright">&times;</span>
+        <span onclick="hidePopupMidExpl()" class="close-button topright">&times;</span>
 
         <form id="myFormMidExpl" class="form-container" action="/SessionMidExplore/">
             <h3>Yes, Send Me the Free Video Now!</h3>
@@ -97,9 +97,9 @@ permalink: /YourJourney2/
         </div>
     </div>
 
-    <div class="popup2">
+    <div id="popup2MidExpl" class="popup2">
         <div class="contents">
-        <form id="myForm2" class="form-container">
+        <form id="myForm2Expl" class="form-container">
 
           <p><h3>Thank You!</h3></p>
           <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
@@ -121,7 +121,7 @@ permalink: /YourJourney2/
   <h3 style="margin-top:5px;color:black">without an insane workload</h3>
 
   <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopup()">
+   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupHigh()">
   <div class="sectionpdContent sectionpdRight">
     <ul class="yes"><h3>In this short video you will learn:</h3>
     
@@ -135,16 +135,16 @@ permalink: /YourJourney2/
     <br>
 
     <p style="text-align:center;">
-    <button class="mybutton" style="color:white;" onclick="showPopup()">
+    <button class="mybutton" style="color:white;" onclick="showPopupHigh()">
     Get The Video
     </button>
     </p>
 
-    <div class="popup">
-        <div class="blocker" onclick="hidePopup()"></div>
+    <div id="popupHigh" class="popup">
+        <div class="blocker" onclick="hidePopupHigh()"></div>
         <div class="contents">
 
-        <span onclick="hidePopup()" class="close-button topright">&times;</span>
+        <span onclick="hidePopupHigh()" class="close-button topright">&times;</span>
 
         <form id="myFormHigh" class="form-container" action="/SessionHigh/">
             <h3>Yes, Send Me the Free Video Now!</h3>
@@ -159,9 +159,9 @@ permalink: /YourJourney2/
         </div>
     </div>
 
-    <div class="popup2">
+    <div id="popup2High" class="popup2">
         <div class="contents">
-        <form id="myForm2" class="form-container">
+        <form id="myForm2High" class="form-container">
 
           <p><h3>Thank You!</h3></p>
           <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
@@ -185,18 +185,44 @@ permalink: /YourJourney2/
 </sectionpd>
 
 <script>
-const popup = document.querySelector('.popup');
-const popup2 = document.querySelector('.popup2');
+const popupMidComp = document.querySelector("#popupMidComp");
+const popup2MidComp = document.querySelector("#popup2MidComp");
+const popupMidExpl = document.querySelector("#popupMidExpl");
+const popup2MidExpl = document.querySelector("#popup2MidExpl");
+const popupHigh = document.querySelector("#popupHigh");
+const popup2High = document.querySelector("#popup2High");
 
-function showPopup() {
-  popup.classList.add('open');
+function showPopupMidComp() {
+  popupMidComp.classList.add('open');
 }
-function hidePopup() {
-  popup.classList.remove('open');
+function hidePopupMidComp() {
+  popupMidComp.classList.remove('open');
 }
 
-function showPopup2() {
-  popup2.classList.add('open');
+function showPopup2MidComp() {
+  popup2MidComp.classList.add('open');
+}
+
+function showPopupMidExpl() {
+  popupMidExpl.classList.add('open');
+}
+function hidePopupMidExpl() {
+  popupMidExpl.classList.remove('open');
+}
+
+function showPopup2MidExpl() {
+  popup2MidExpl.classList.add('open');
+}
+
+function showPopupHigh() {
+  popupHigh.classList.add('open');
+}
+function hidePopupHigh() {
+  popupHigh.classList.remove('open');
+}
+
+function showPopup2High() {
+  popup2High.classList.add('open');
 }
 
 <!-- Google form:
@@ -208,7 +234,7 @@ var $formMidExpl = $('form#myFormMidExpl')
 const url = 'https://script.google.com/macros/s/AKfycbxqG2lS_HAa1swJ31Xl3F912tJXzk26s0ASB5pwA2IikNo-ojSIF1hC74n88MUHPiZ8/exec'
 
 $("#myFormHigh").submit (function() { 
-  showPopup2();
+  showPopup2High();
   $.ajax({
     url: url,
     method: "GET",
@@ -221,7 +247,7 @@ $("#myFormHigh").submit (function() {
 });
 
 $("#myFormMidComp").submit (function() { 
-  showPopup2();
+  showPopup2MidComp();
   $.ajax({
     url: url,
     method: "GET",
@@ -234,7 +260,7 @@ $("#myFormMidComp").submit (function() {
 });
 
 $("#myFormMidExpl").submit (function() { 
-  showPopup2();
+  showPopup2MidExpl();
   $.ajax({
     url: url,
     method: "GET",
