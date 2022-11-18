@@ -154,9 +154,7 @@ img {
   background-color: #e2e8fd;
   height: 32px;
   width: 470px;
-  border: 2px solid #1165be; /*0b325c;*/
-  border-radius: 3px; /* top left, top right, bottom right, bottom left */
-  padding: 1px 1px 0 1px; /* top, right, bottom, left */
+  border: 0px;
   margin: 0px;
 }
 
