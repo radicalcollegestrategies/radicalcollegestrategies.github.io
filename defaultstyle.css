@@ -38,6 +38,24 @@ header {
   color: #ffffff;
 }
 
+.gallery xform {
+  height: 20px;
+  padding: 0 10px 0 10px; /* top, right, bottom, left */
+  margin: 0px;  
+  float: left;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.gallery_xform img {
+  height: 100%;
+  width: auto;
+}
+
+.gallery_xform:hover {
+  transform: scale(1.2);
+}
+
 /**************** Layout Styles *****************/
 html {
   scroll-behavior: smooth;
