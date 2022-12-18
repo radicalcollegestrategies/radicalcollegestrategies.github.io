@@ -35,25 +35,17 @@ header {
   margin: 0px;  
   float: left;
   font-size: 18px;
-  color: #ffffff;
 }
 
-.gallery xform {
+.gallery_xform {
   height: 20px;
-  padding: 0 10px 0 10px; /* top, right, bottom, left */
-  margin: 0px;  
+  padding: 0;
+  margin: 0 3px 0 3px;  /* top, right, bottom, left */
   float: left;
-  font-size: 18px;
-  color: #ffffff;
-}
-
-.gallery_xform img {
-  height: 100%;
-  width: auto;
 }
 
 .gallery_xform:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 /**************** Layout Styles *****************/
@@ -135,10 +127,11 @@ img {
   display: inline-block;
   font-size: 24px;
   font-family: 'Marko One';
+  cursor: pointer;
 }
 
 .mybutton:hover {
-  background-color: #1676dd;
+  background-color: #1b89ff;
 }
 
 .mybuttonsmall {
@@ -169,9 +162,8 @@ img {
 }
 
 .notesmall{
-  background-color: #e2e8fd;
   height: 32px;
-  width: 470px;
+  width: 500px;
   border: 0px;
   margin: 0px;
 }

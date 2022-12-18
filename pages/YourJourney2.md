@@ -19,7 +19,7 @@ permalink: /YourJourney2/
     <li style="margin-bottom:10px">Differentiate yourself early and stand out from your classmates</li>
     <li>Develop a strong foundation to maintain the edge in high school</li>
     </ul>
-  <img style="width: 400px;" 
+  <img class="myimg" style="width: 400px;" 
    src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupMidComp()">
 
     <p style="text-align:center;padding-top:20px">
@@ -69,7 +69,7 @@ permalink: /YourJourney2/
     <li>Make your future high school journey targeted and stress-free</li>
     </ul>
 
-  <img style="width: 400px;" 
+  <img class="myimg" style="width: 400px;" 
    src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupMidExpl()">
 
     <p style="text-align:center;padding-top:20px">
