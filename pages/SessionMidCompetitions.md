@@ -17,8 +17,8 @@ permalink: /SessionMidCompetitions/
 <h2 style="font-size: 29px;margin-top:10px;margin-bottom:10px">Step2: Schedule a free breakthrough strategy session with Geeta</h2>
 <div class="row3">
 <div><b>Excel in impactful competitions</b></div>
-<div><b>Gain early edge before high school</b></div>
-<div><b>Avoid time-sinks!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></div>
+<div><b>Zoom miles ahead of peers</b></div>
+<div><b>Avoid time-sinks & hurdles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></div>
 </div>
 <br>
 
