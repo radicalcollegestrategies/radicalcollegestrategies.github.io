@@ -9,12 +9,12 @@ permalink: /SessionMidExplore/
 <div class="license" style="text-align:center;margin-bottom:20px;font-size:14px;"><a style="color:black;" href="/YourJourney2">(All other students click here)</a></div>
 <h2 style="margin-top:0px;">Step1: Watch this video</h2>
 
-<iframe src="https://www.youtube.com/embed/rM7I2bVjvH4" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
+<iframe src="https://www.youtube.com/embed/YhoyEyI_LFM" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
 
 </sectionpd>
 
 <sectionpd>
-<h2 style="font-size: 29px;margin-top:10px;margin-bottom:10px">Step2: Schedule a free breakthrough strategy session with Geeta</h2>
+<h2 style="font-size: 29px;margin-top:10px;margin-bottom:10px">Step2: Schedule a free breakthrough strategy session</h2>
 <div class="row3">
 <div><b>Gain clarity on your interests</b></div>
 <div><b>Explore beyond school curriculum</b></div>
