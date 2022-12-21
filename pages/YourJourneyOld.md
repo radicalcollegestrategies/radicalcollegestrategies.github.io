@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Your Journey - RCS
-permalink: /YourJourney/
+permalink: /YourJourneyOld/
 ---
 <sectionpd>
 <h3 style="margin:10px;">Grades 8<div style="display:inline;font-size:16px">(spring)</div> - 11 STEM students (U.S. only):</h3>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Your Journey - RCS
-permalink: /YourJourney2/
+permalink: /YourJourney/
 ---
 <section50 id="middle">
 {%- include navbar.html -%}
