@@ -20,7 +20,7 @@ permalink: /YourJourney2/
     <li>Develop a strong foundation to maintain the edge in high school</li>
     </ul>
   <img class="myimg" style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupMidComp()">
+   src="/images/Competition.png" alt="CompetitionVideo" onclick="showPopupMidComp()">
 
     <p style="text-align:center;padding-top:20px">
     <button class="mybutton" style="color:white;" onclick="showPopupMidComp()">
@@ -70,7 +70,7 @@ permalink: /YourJourney2/
     </ul>
 
   <img class="myimg" style="width: 400px;" 
-   src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupMidExpl()">
+   src="/images/Explore.png" alt="ExploreVideo" onclick="showPopupMidExpl()">
 
     <p style="text-align:center;padding-top:20px">
     <button class="mybutton" style="color:white;" onclick="showPopupMidExpl()">
