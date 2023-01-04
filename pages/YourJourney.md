@@ -130,8 +130,6 @@ permalink: /YourJourney/
     <li>A proven strategy to get into MIT and other top-tier colleges</li>
     </ul>
 
-    <p style="margin-left:40px;color:red">Sorry, there are currently no slots available for new students. <br> Please check back in January 2023.</p>
-
     <br>
 
     <p style="text-align:center;">
@@ -273,10 +271,4 @@ $("#myFormMidExpl").submit (function() {
 });
 </script>
 
-<div class="license" style="float:right">
-<a href="/Privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Terms" target="_blank" style="color: #0821af;">Terms</a>
-<br>
-<br>
-</div>
+{%- include footer.html -%}

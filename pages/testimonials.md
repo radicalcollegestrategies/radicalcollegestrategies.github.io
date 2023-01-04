@@ -31,10 +31,4 @@ permalink: /Testimonials/
     {%- include buttons.html -%}
 </section50short>
 
-<div class="license" style="float:right">
-<a href="/Privacy" target="_blank" style="color: #0821af;">Privacy Policy</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Terms" target="_blank" style="color: #0821af;">Terms</a>
-<br>
-<br>
-</div>
+{%- include footer.html -%}
