@@ -174,7 +174,7 @@ permalink: /YourJourney/
 {%- include navbar.html -%}
 
 <h3 style="margin-top:30px;margin-bottom:10px;">(Rising) Seniors (College Applications)</h3>
-<p>For college applications, I exclusively help students who have been working with me over the years. I typically don't take on rising seniors as new students, but if you have a very strong STEM profile, please <a href="https://docs.google.com/spreadsheets/d/1U_qaVM32ebqJxPkqoVopKzgctz7m_cgjuawbRcKJ5Zw/edit#gid=1398217924" target="_blank" style="color:#0821af;">fill out this spreadsheet</a>, and I'll see what I can do.</p>
+<p>If you are a rising senior with a strong STEM profile, please <a href="https://docs.google.com/spreadsheets/d/1U_qaVM32ebqJxPkqoVopKzgctz7m_cgjuawbRcKJ5Zw/edit#gid=1398217924" target="_blank" style="color:#0821af;">fill out this spreadsheet</a>. The directions there will guide you to make an appointment.</p>
 
 <!--p style="text-align:center;font-size:18px;"><b>Rising seniors:</b> (late Grade 11-early Grade 12): <a href="https://calendly.com/geeta-radical/college-counseling" style="color:#0821af;">Book a free session here</a> for help with college admissions.</p>
 <p style="text-align:center">(Grades 8-11: Watch the video above to book a session)</p-->
