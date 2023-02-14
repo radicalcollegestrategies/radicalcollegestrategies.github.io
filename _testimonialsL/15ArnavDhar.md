@@ -1,0 +1,5 @@
+---
+from: Parent of AD, Northwood High School, Irvine
+---
+<p>Being part of the school tennis team was very important for my son, which meant that he had <b>very little time to also build up his STEM interests</b>. Even more difficult was to research and figure out what direction would be right for him. We started counseling with Radical, and before long, he was working on pneumonia research - something we could not have figured out easily by ourselves. This was possible only because of very <b>specific guidance</b> we got from our counselor. This year he was thrilled to be selected at his first choice <b>prestigious summer program</b>. </p>
+<p>I would highly recommend Radical College Strategies for STEM students - there is no better way to build a strong STEM profile aiming at top colleges.</p>
