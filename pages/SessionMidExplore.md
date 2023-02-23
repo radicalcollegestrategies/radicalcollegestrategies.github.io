@@ -6,7 +6,7 @@ permalink: /SessionMidExplore/
 
 <sectionpd>
 <h4 style="margin-bottom:1px">Grades 6 - 8(fall) STEM students interested in discovering your interests:</h4>
-<div class="license" style="text-align:center;margin-bottom:20px;font-size:14px;"><a style="color:black;" href="/YourJourney2">(All other students click here)</a></div>
+<div class="license" style="text-align:center;margin-bottom:20px;font-size:14px;"><a style="color:black;" href="/YourJourney">(All other students click here)</a></div>
 <h2 style="margin-top:0px;">Step1: Watch this video</h2>
 
 <iframe src="https://www.youtube.com/embed/f0XSmIPC7Ik" class="center" scrolling="no" allowfullscreen="" width="720" height="400" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>

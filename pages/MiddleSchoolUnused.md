@@ -140,7 +140,7 @@ permalink: /MiddleSchoolUnused/
 </sectionpd>
 
 <sectionpd>
-    <h3 style="margin-top:0px;color:black">Doesn't sound relevant? Try the <a style="color:blue" href="/YourJourney2">other paths</a></h3>
+    <h3 style="margin-top:0px;color:black">Doesn't sound relevant? Try the <a style="color:blue" href="/YourJourney">other paths</a></h3>
 </sectionpd>
 
 <script>

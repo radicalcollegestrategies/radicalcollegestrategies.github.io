@@ -1,0 +1,60 @@
+<sectionpd id="high">
+    {%- include navbar.html -%}
+    
+    <h3 style="margin-top:30px;margin-bottom:10px;">Grades 8<div style="display:inline;font-size:16px">(spring)</div> - 11
+      STEM students (U.S. only):</h3>
+    <h2 style="margin-top:10px;margin-bottom:0px;color:black">3 ways we help students gain strategic advantage<br>to get into top-tier colleges</h2>
+    <!--div style="display:inline;font-family:Courier New;font-size:44px;"><b>I</b></div-->
+    
+    <h3 style="margin-top:5px;color:black">without an insane workload</h3>
+    
+    <img class="sectionpdPicture sectionpdLeft myimg" style="width: 400px;" 
+       src="/images/StandOut.png" alt="IntroVideo" onclick="showPopupHigh()">
+    
+    <div class="sectionpdContent sectionpdRight">
+        <ul class="yes"><h3>In this short video you will learn:</h3>
+        
+        <li style="margin-bottom:20px">A model that clearly defines where to invest your time 'n effort</li>
+        <li style="margin-bottom:20px">Differentiate yourself by focusing on a few impactful activities</li>
+        <li>A proven strategy to get into MIT and other top-tier colleges</li>
+        </ul>
+    
+        <br>
+    
+        <p style="text-align:center;">
+        <button class="mybutton" style="color:white;" onclick="showPopupHigh()">
+        Get The Video
+        </button>
+        </p>
+    
+        <div id="popupHigh" class="popup">
+            <div class="blocker" onclick="hidePopupHigh()"></div>
+            <div class="contents">
+    
+            <span onclick="hidePopupHigh()" class="close-button topright">&times;</span>
+    
+            <form id="myFormHigh" class="form-container" action="/SessionHigh/">
+                <h3>Yes, Send Me the Free Video Now!</h3>
+    
+                <label for="email"></label>
+                <input style="max-width:270px;margin-left:45px;" type="text" placeholder="Enter Email" name="email" required>
+                <p style="font-size:12px;text-align: center;">We do not sell or share your info</p>
+                <p style="text-align:center;">
+                <button class="mybutton" style="color:white;" type="submit" class="mybutton">Send Me The Video</button>
+                </p>
+            </form>
+            </div>
+        </div>
+    
+        <div id="popup2High" class="popup2">
+            <div class="contents">
+            <form id="myForm2High" class="form-container">
+    
+              <p><h3>Thank You!</h3></p>
+              <button class="mybutton" style="color:white;" type="submit" class="mybutton">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitting...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+            </form>
+            </div>
+        </div>
+    
+    </div>
+</sectionpd>
