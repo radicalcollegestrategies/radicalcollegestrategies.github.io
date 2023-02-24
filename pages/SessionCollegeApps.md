@@ -16,9 +16,11 @@ permalink: /SessionCollegeApps/
 </div>
 
 <!-- Show personal calendar as busy on business calendar:
-     https://medium.com/@willroman/auto-block-time-on-your-work-google-calendar-for-your-personal-events-2a752ae91dab -->
+     https://medium.com/@willroman/auto-block-time-on-your-work-google-calendar-for-your-personal-events-2a752ae91dab 
+     Geeta's calendar: https://calendly.com/geeta-radical/college-counseling
+-->
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/geeta-radical/college-counseling?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;" id="schedule"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/veenamistry/college-app-strategies?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;" id="schedule"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
