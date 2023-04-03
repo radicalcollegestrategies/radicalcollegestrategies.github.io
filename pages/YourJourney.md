@@ -3,11 +3,12 @@ layout: default
 title: Your Journey - RCS
 permalink: /YourJourney/
 ---
-{%- include YourJourneySenior.html -%}
+
+{%- include YourJourneyMid.html -%}
 
 {%- include YourJourneyHigh.html -%}
 
-{%- include YourJourneyMid.html -%}
+{%- include YourJourneySenior.html -%}
 
 <script>
 const popupMidComp = document.querySelector("#popupMidComp");
