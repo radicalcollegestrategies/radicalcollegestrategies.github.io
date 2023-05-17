@@ -151,7 +151,7 @@ img {
 }
 
 .mybutton2 {
-  background-color: #71b5fd;
+  background-color: #1b89ff;
   border-radius: 25px;
   border: none;
   padding: 15px 32px;
@@ -164,7 +164,7 @@ img {
 }
 
 .mybutton2:hover {
-  background-color: #1b89ff;
+  background-color: #71b5fd;
 }
 
 .note{
