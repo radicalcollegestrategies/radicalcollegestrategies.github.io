@@ -6,8 +6,14 @@ layout: default
 title: Radical College Strategies
 permalink: /
 ---
-<br>
 <sectionpd>
+
+  <p style="text-align:center;"><a href="/Testimonials" class="mybutton2" style="color:white">
+   Congratulations!! Radical Class of 2027 <br>for securing admissions into Top Tier Colleges
+   </a></p>
+
+  <br>
+
   <img class="sectionpdPicture sectionpdLeft" src="/images/goal.jpg" alt="Dream College Goal">
 
   <div class="sectionpdContent sectionpdRight">
@@ -28,6 +34,8 @@ permalink: /
     <li>Make your high school experience more focused and fun</li>
     <li>EXCEL! Stand out among your peers</li>
     </ul>
+
+        <p style="margin-left:40px;color:red">Sorry, there are currently no slots available for new students. <br> Please check back in Fall.</p>
 
     {%- include buttons.html -%}
 
