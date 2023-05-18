@@ -22,19 +22,14 @@ permalink: /SessionMidCompetitions/
 </div>
 <br>
 
-    <!--p style="text-align:left; margin-left:250px;margin-bottom:0" class="mybox">
-    Make sure both parent and student attend the meeting.<br><br>
-
-    <a style="color: #0821af;" href="https://docs.google.com/spreadsheets/d/1WhMljju5bW45TNDJHnw4HwNfwP2gTt8ckxB07rz5kec/edit#gid=0"  target="_blank">Fill out this questionnaire</a> at least 24 hours prior to our meeting, <br> 
-    so that I can help you best. The instructions are in the document.
-    </p-->
-
 <!-- Show personal calendar as busy on business calendar:
      https://medium.com/@willroman/auto-block-time-on-your-work-google-calendar-for-your-personal-events-2a752ae91dab -->
 <!-- Calendly inline widget begin -->
 <!--div class="calendly-inline-widget" data-url="https://calendly.com/geeta-radical/middle-school?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;"></div-->
+
 <div class="calendly-inline-widget" data-url="https://calendly.com/veenamistry/free-strategy-session-middle-school?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
 <!-- Calendly inline widget end -->
 </sectionpd>
 

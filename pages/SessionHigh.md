@@ -34,9 +34,13 @@ permalink: /SessionHigh/
 
 <!-- Calendly inline widget begin -->
 <!-- div class="calendly-inline-widget" data-url="https://calendly.com/geeta-radical/college-strategies?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;"></div-->
-<div class="calendly-inline-widget" data-url="https://calendly.com/veenamistry/free-strategy-session-high-school-mentoring?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;"></div>
 
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!--div class="calendly-inline-widget" data-url="https://calendly.com/veenamistry/free-strategy-session-high-school-mentoring?background_color=eff3fd" style="min-width:320px;height:650px;margin-top:0px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script-->
+
+    <p style="margin-left:140px;color:red">Sorry, there are currently no slots available for new students. 
+        <br> Please check back in Fall.</p>
+
 <!-- Calendly inline widget end -->
 </sectionpd>
 

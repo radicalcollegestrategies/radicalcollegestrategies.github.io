@@ -52,7 +52,7 @@ permalink: /
 
     <p>I observed that the biggest mistake high school students make is to take on a crazy workload which leads to burnout and yet their story does not stand out as impressive to colleges. This led me to found Radical College Strategies.</p> 
 
-    <p><b>Contact: </b><a href="mailto:geeta@radicalcollegestrategies.com" style="color:#0821af;">geeta@radicalcollegestrategies.com</a></p>
+    <p><b>Contact: </b><a href="mailto:support@radicalcollegestrategies.com" style="color:#0821af;">support@radicalcollegestrategies.com</a></p>
   </div>
   <img class="sectionpdPicture sectionpdRight" src="/images/geeta.jpg" alt="Geeta Arora College Strategist">
 
