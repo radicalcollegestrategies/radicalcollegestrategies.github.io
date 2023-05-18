@@ -29,9 +29,13 @@ permalink: /Testimonials/
 
 </section50short> 
 <br>
-<section50short> 
+<section50short!--> 
   <div class="section50left test">
-  <iframe src="https://www.youtube.com/embed/rM7I2bVjvH4" class="center" scrolling="no" allowfullscreen="" width="450" height="225" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
+  <!--iframe src="https://youtu.be/Ipwl09HyAzY" class="center" scrolling="no" allowfullscreen="" width="450" height="225" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe-->
+
+  <iframe src="https://www.youtube.com/embed/Ipwl09HyAzY" width="450" height="260" class="center" scrolling="no" allowfullscreen="" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+
   </div>
 
   <div class="section50right test">
@@ -39,14 +43,16 @@ permalink: /Testimonials/
 
         <ul class="yes" style="font-size:14px;">Accepted into:
         
-        <li>UC Berkeley</li>
-        <li>University of Washington, Seattle</li>
-        <li>University of the Pacific specialized program</li>
+        <li style="margin-top:10px">UC Berkeley</li>
+        <li style="margin-top:10px">University of Washington, Seattle</li>
+        <li style="margin-top:10px">University of the Pacific's reputed BS/DDS accelerated program</li>
         </ul>
+        <p style="font-size:14px; font-style: italic;">"I thought I would be attending ... community college and transferring" </p> 
+        <p style="font-size:14px; font-style: italic;">"Radical took my profile from <b>B level to A+</b>"</p>
   </div>
 </section50short> 
 
-<section50short--> 
+<section50short> 
   <div class="section50left test">
 
     {% for comp in site.testimonials_ca_L %}  
