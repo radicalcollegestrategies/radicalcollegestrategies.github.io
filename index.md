@@ -35,8 +35,7 @@ permalink: /
     <li>EXCEL! Stand out among your peers</li>
     </ul>
 
-        <p style="margin-left:40px;color:red">Sorry, there are currently no slots available for new students. <br> Please check back in Fall.</p>
-
+    {%- include WaitList.html -%}
     {%- include buttons.html -%}
 
   </div>
