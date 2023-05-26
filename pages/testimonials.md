@@ -12,28 +12,33 @@ permalink: /Testimonials/
 
   <h2>Meet our Graduates</h2>
 
-  <!--div class="section50left test"> 
+  <div class="section50left test"> 
     <br> <h3 style="margin:0px;">Jai Singh</h3> <h4 style="margin:0px;">CMU Class of 2027: Computer Engineering</h4>
 
         <ul class="yes" style="font-size:14px;margin-left:80px">Accepted into:
         
-        <li>Carnegie Mellon University</li>
-        <li>Cornell University</li>
-        <li>UT Austin Honors Program</li>
+        <li style="margin-top:10px">Carnegie Mellon University</li>
+        <li style="margin-top:10px">Cornell University</li>
+        <li style="margin-top:10px">UT Austin Honors Program</li>
         </ul>
+        <p style="font-size:14px; font-style: italic;">"Radical helped improve resume to stand out till  application got sent"</p>
+        <p style="font-size:14px; font-style: italic;">"... <b>brought out the X-factor</b> that tied together my application very effectively" </p> 
   </div>
 
   <div class="section50right test">
-  <iframe src="https://www.youtube.com/embed/rM7I2bVjvH4" class="center" scrolling="no" allowfullscreen="" width="450" height="225" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
+  <iframe src="https://www.youtube.com/embed/3-CDyw8NDRk" width="450" height="260" class="center" scrolling="no" 
+  allowfullscreen="" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
   </div>
 
 </section50short> 
 <br>
-<section50short!--> 
+<section50short> 
   <div class="section50left test">
   <!--iframe src="https://youtu.be/Ipwl09HyAzY" class="center" scrolling="no" allowfullscreen="" width="450" height="225" frameborder="0" sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe-->
 
-  <iframe src="https://www.youtube.com/embed/Ipwl09HyAzY" width="450" height="260" class="center" scrolling="no" allowfullscreen="" frameborder="0" 
+  <iframe src="https://www.youtube.com/embed/Ipwl09HyAzY" width="450" height="260" class="center" scrolling="no" 
+  allowfullscreen="" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
   </div>
