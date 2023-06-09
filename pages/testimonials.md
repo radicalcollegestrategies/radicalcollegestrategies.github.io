@@ -8,7 +8,7 @@ permalink: /Testimonials/
   <h2>2023 Results</h2>
 
   <p style="margin-left: 70px;">Through our <b>unique strategy and approach</b>, we were able to get majority of our Class of 2027 students 
-  to <br> Top-5 STEM colleges which were <b>way above their trajectory</b>. Our students are on their way to <b>CMU, <br>UC Berkeley, Cornell, UIUC, UC San Diego, UT honors.</b> Bon Voyage!</p>
+  to <br> Top-5 STEM colleges which were <b>way above their trajectory</b>. Our students are on their way to <b>CMU, <br>UC Berkeley, Cornell, UIUC, UW, UC San Diego, UT honors.</b> Bon Voyage!</p>
 
   <h2>Meet our Graduates</h2>
 
